@@ -46,12 +46,12 @@ VILLES_CODES = {
     "Aix-en-Provence": ["13001"],
     "Nancy": ["54395"],
     "Poitiers": ["86194"],
-    "Tours": ["37271"],
+    "Tours": ["37261"],
     "Clermont-Ferrand": ["63113"],
     "Caen": ["14118"],
     "Nice": ["06088"],
     "Reims": ["51454"],
-    "Angers": ["49019"],
+    "Angers": ["49007"],
     "Dijon": ["21231"],
 }
 
