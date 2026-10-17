@@ -1,39 +1,48 @@
 """
-Quiz « Quelle ville est faite pour toi ? » — Atlas de l'attractivité étudiante
+Quiz « Quelle ville est faite pour toi ? » — v2 avec dimension géographique
 =============================================================================
-7 questions simples -> profil de pondération des 4 piliers -> top 5 data-driven.
+7 questions + domicile -> profil de pondération des 4 piliers -> top 5
+data-driven, AVEC distance domicile -> ville et filtre « rester proche ».
 
 100 % transparent (charte anti-projet-factice) : le quiz ne fait QUE modifier
 les poids des piliers du scoring existant (transform/scores.py). Le classement
-final vient toujours de data/processed/villes_scoring.csv. Aucune donnée
-inventée, aucun biais caché : le poids final est affiché à l'utilisateur.
+vient toujours de data/processed/villes_scoring.csv. Les distances sont des
+distances géodésiques (haversine) calculées à partir des coordonnées officielles
+API Géo stockées dans data/raw/referentiel_villes.csv.
+
+v2 — nouveautés :
+- Question 0 : commune de domicile (texte libre) -> résolue via API Géo
+  (même pattern que src/extract/06_api_geo.py : recherche par nom puis
+  fiche par code avec fields=centre, format GeoJSON [lon, lat]).
+- La distance domicile -> chaque ville est AFFICHÉE dans le résultat.
+- Si la réponse à la question 7 est « rester pas trop loin de ma famille »,
+  le classement est FILTRÉ aux villes à moins de 300 km du domicile.
+  S'il reste moins de 3 villes dans le rayon, on les affiche toutes et on
+  complète avec les meilleures villes hors rayon (marquées « hors rayon »).
+- Si l'API Géo est injoignable ou le domicile introuvable : le quiz CONTINUE
+  sans dimension géographique (message explicite — jamais de blocage).
 
 Usage
 -----
 Interactif :
     python transform/quiz.py
-
-Non-interactif (test / site React) — réponses en une chaîne, ex. :
-    python transform/quiz.py --reponses "B,C,A,B,A,B,C"
-
-Chaque question propose 3 choix (A, B, C). L'utilisateur peut aussi sauter
-(Entrée = neutre, aucune influence). 7 questions au total.
+Non-interactif (test / site React) :
+    python transform/quiz.py --reponses "B,C,A,B,A,B,C" --domicile "Melun"
+Chaque question propose 3 choix (A, B, C). Entrée = passer (neutre).
 """
 
 import argparse
+import math
 import sys
 from pathlib import Path
 
 import pandas as pd
+import requests
 
 PROCESSED = Path("data/processed/villes_scoring.csv")
+REFERENTIEL = Path("data/raw/referentiel_villes.csv")
+RAYON_PROXIMITE = 300  # km — filtre si « rester proche de la famille »
 
-# ---------------------------------------------------------------------------
-# Poids de départ = pondération officielle du projet (logement 30, emploi 25,
-# démo 25, formation 20 — identique à scores.py et simulateur.py).
-# Chaque réponse ajoute des points aux piliers concernés, puis on normalise
-# pour que la somme fasse 1. Les « points » sont simples et lisibles.
-# ---------------------------------------------------------------------------
 W_DEFAUT = {"logement": 30, "emploi": 25, "demographie": 25, "formation": 20}
 PILIERS = list(W_DEFAUT)
 
@@ -104,6 +113,48 @@ QUESTIONS = [
 ]
 
 
+# ---------------------------------------------------------------------------
+# Géoloc
+# ---------------------------------------------------------------------------
+def haversine(lat1, lon1, lat2, lon2):
+    """Distance géodésique en km entre deux points (rayon terrestre 6371 km)."""
+    r = 6371.0
+    p1, p2 = math.radians(lat1), math.radians(lat2)
+    dp = p2 - p1
+    dl = math.radians(lon2 - lon1)
+    a = math.sin(dp / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(dl / 2) ** 2
+    return 2 * r * math.asin(math.sqrt(a))
+
+
+def geolocaliser(nom_commune: str):
+    """Résout une commune par nom via API Géo -> (lat, lon) ou None.
+    Même pattern que src/extract/06_api_geo.py v2 :
+    recherche par nom puis fiche par code avec fields=centre (GeoJSON [lon, lat])."""
+    try:
+        r = requests.get(
+            "https://geo.api.gouv.fr/communes",
+            params={"nom": nom_commune, "fields": "code", "boost": "population", "limit": 5},
+            timeout=10,
+        )
+        r.raise_for_status()
+        resultats = r.json()
+        if not resultats:
+            return None
+        code = resultats[0]["code"]
+        fiche = requests.get(
+            f"https://geo.api.gouv.fr/communes/{code}",
+            params={"fields": "centre"},
+            timeout=10,
+        )
+        fiche.raise_for_status()
+        coords = (fiche.json().get("centre") or {}).get("coordinates")
+        if not coords or len(coords) < 2:
+            return None
+        return float(coords[1]), float(coords[0])  # [lon, lat] -> (lat, lon)
+    except (requests.RequestException, KeyError, ValueError):
+        return None
+
+
 def poser(q: dict) -> str:
     """Pose une question, retourne 'A'/'B'/'C' ou '' (saut).
     Escalade bienveillante : 1re erreur = rappel, 2e = consigne détaillée,
@@ -127,25 +178,23 @@ def poser(q: dict) -> str:
             return ""
 
 
-def calculer_poids(reponses: dict) -> dict:
-    """reponses = {cle_question: lettre} -> dict de poids normalisés."""
+def calculer_poids(reponses: dict):
+    """reponses = {cle_question: lettre} -> (dict poids normalisés, nb d'ajouts)."""
     w = dict(W_DEFAUT)
     total_ajouts = 0
     for q in QUESTIONS:
         lettre = reponses.get(q["cle"], "")
         if lettre and lettre in q["choix"]:
-            ajustements = q["choix"][lettre][1]
-            for pilier, pts in ajustements.items():
+            for pilier, pts in q["choix"][lettre][1].items():
                 w[pilier] += pts
                 total_ajouts += pts
-    # Normalisation : somme = 1 (affichage en % pour la lisibilité)
     total = sum(w.values())
     return {p: w[p] / total for p in PILIERS}, total_ajouts
 
 
 def classement(df: pd.DataFrame, poids: dict) -> pd.DataFrame:
     """Score pondéré par pilier à partir des piliers du CSV (0-100)."""
-    out = pd.DataFrame({"ville": df["ville"]})
+    out = df[["ville"]].copy()
     out["score_quiz"] = (
         poids["logement"] * df["score_logement"]
         + poids["emploi"] * df["score_emploi"]
@@ -155,7 +204,7 @@ def classement(df: pd.DataFrame, poids: dict) -> pd.DataFrame:
     return out.sort_values("score_quiz", ascending=False).reset_index(drop=True)
 
 
-def afficher_resultat(df: pd.DataFrame, poids: dict, reponses: dict, n_ajouts: int):
+def afficher_resultat(df, poids, reponses, n_ajouts, dom_latlon=None, filtre_proximite=False):
     print("\n" + "=" * 70)
     print("  RÉSULTAT — TES VILLES IDÉALES")
     print("=" * 70)
@@ -168,15 +217,58 @@ def afficher_resultat(df: pd.DataFrame, poids: dict, reponses: dict, n_ajouts: i
     if n_ajouts == 0:
         print("    (aucune réponse influente -> pondération par défaut du projet)")
 
+    # Classement + distances
+    rang = classement(df, poids)
+    if dom_latlon:
+        dom_lat, dom_lon = dom_latlon
+        geo = pd.read_csv(REFERENTIEL)
+        coords = dict(zip(geo["ville"], zip(geo["latitude"], geo["longitude"])))
+        rang["distance_km"] = rang["ville"].map(
+            lambda v: round(haversine(dom_lat, dom_lon, *coords[v])) if v in coords else None
+        )
+        if filtre_proximite:
+            dans_rayon = rang[rang["distance_km"] <= RAYON_PROXIMITE]
+            hors_rayon = rang[rang["distance_km"] > RAYON_PROXIMITE]
+            n_dans = len(dans_rayon)
+            if 0 < n_dans < 3:
+                # Trop peu dans le rayon : on complète avec les meilleures hors rayon
+                top = pd.concat([dans_rayon, hors_rayon.head(5 - n_dans)])
+                note = (f"\n  ℹ️ Ton rayon de {RAYON_PROXIMITE} km ne contient que {n_dans} ville(s) "
+                        f"du panel — complété par les meilleures villes hors rayon (marquées *).")
+            else:
+                top = dans_rayon.head(5)
+                note = f"\n  ℹ️ Filtré : uniquement les villes à moins de {RAYON_PROXIMITE} km de chez toi."
+        else:
+            top = rang.head(5)
+            note = ""
+        dist_col = True
+    else:
+        top = rang.head(5)
+        note = ""
+        dist_col = False
+
+    if note:
+        print(note)
     print("\n  Top 5 des villes pour ton profil :")
-    top = classement(df, poids).head(5)
     for i, (_, r) in enumerate(top.iterrows(), 1):
-        print(f"    {i}. {r['ville']:<18}{r['score_quiz']:>6}")
+        ligne = f"    {i}. {r['ville']:<18}{r['score_quiz']:>6}"
+        if dist_col:
+            etoile = " *" if filtre_proximite and r["distance_km"] > RAYON_PROXIMITE else ""
+            ligne += f"   ({int(r['distance_km'])} km de chez toi){etoile}"
+        print(ligne)
 
     print("\n  Les 3 moins adaptées à ton profil :")
-    bottom = classement(df, poids).tail(3).iloc[::-1]
-    for i, (_, r) in enumerate(bottom.iterrows(), 1):
-        print(f"    {i}. {r['ville']:<18}{r['score_quiz']:>6}")
+    bottom_source = top if filtre_proximite else rang.tail(3).iloc[::-1]
+    if filtre_proximite:
+        # Cohérence : le bottom vient du top filtré (sinon on afficherait une
+        # ville du rayon comme « moins adaptée » alors qu'elle a passé le filtre)
+        bottom_source = top.tail(3).iloc[::-1]
+        print("    (parmi les villes de ton rayon)")
+    for i, (_, r) in enumerate(bottom_source.iterrows(), 1):
+        ligne = f"    {i}. {r['ville']:<18}{r['score_quiz']:>6}"
+        if dist_col:
+            ligne += f"   ({int(r['distance_km'])} km)"
+        print(ligne)
 
     print(
         "\n  ⚠️ Lecture : ce classement est un FILTRE D'AIDE À LA DÉCISION, pas un "
@@ -186,6 +278,7 @@ def afficher_resultat(df: pd.DataFrame, poids: dict, reponses: dict, n_ajouts: i
     print(
         "  Méthodo : piliers issus de villes_scoring.csv (MESR, INSEE MELODI RP 2023, "
         "DVF 2025) ; pondération de départ 30/25/25/20, ajustée par tes réponses."
+        + (" Distances : géodésiques (haversine), coordonnées API Géo." if dom_latlon else "")
     )
 
 
@@ -195,12 +288,24 @@ def quiz_interactif(df: pd.DataFrame):
     print("=" * 70)
     print("  7 questions, aucune bonne réponse — seulement TES priorités.")
 
+    # Question 0 : domicile (pour la distance — jamais bloquant)
+    dom_latlon = None
+    domicile = input("\n0. Ta commune de domicile (ex: Melun — Entrée pour ignorer) : ").strip()
+    if domicile:
+        print(f"   Localisation de {domicile}...")
+        dom_latlon = geolocaliser(domicile)
+        if dom_latlon:
+            print(f"   ✅ Trouvé (lat {dom_latlon[0]}, lon {dom_latlon[1]})")
+        else:
+            print("   ⚠️ Commune introuvable ou API injoignable — le quiz continue sans distance.")
+
     reponses = {}
     for q in QUESTIONS:
         reponses[q["cle"]] = poser(q)
 
     poids, n_ajouts = calculer_poids(reponses)
-    afficher_resultat(df, poids, reponses, n_ajouts)
+    filtre = reponses.get("region") == "B"
+    afficher_resultat(df, poids, reponses, n_ajouts, dom_latlon, filtre)
 
     again = input("\nRefaire le quiz ? (o/N) : ").strip().lower()
     if again == "o":
@@ -209,7 +314,8 @@ def quiz_interactif(df: pd.DataFrame):
 
 def main():
     p = argparse.ArgumentParser(description="Quiz — ville idéale (Atlas attractivité étudiante)")
-    p.add_argument("--reponses", help='Chaîne de réponses, ex: "B,C,A,B,A"')
+    p.add_argument("--reponses", help='Chaîne de réponses aux 7 questions, ex: "B,C,A,B,A,B,C"')
+    p.add_argument("--domicile", help="Commune de domicile (ex: Melun) — active distances et filtre proximité")
     opts = p.parse_args()
 
     if not PROCESSED.exists():
@@ -220,14 +326,20 @@ def main():
         if col not in df.columns:
             sys.exit(f"ERREUR : colonne '{col}' absente de {PROCESSED}. Colonnes : {list(df.columns)}")
 
+    dom_latlon = None
+    if opts.domicile:
+        dom_latlon = geolocaliser(opts.domicile)
+        if not dom_latlon:
+            print(f"⚠️ Domicile « {opts.domicile} » introuvable — sans dimension géographique.")
+
     if opts.reponses:
         lettres = [x.strip().upper() for x in opts.reponses.split(",")]
         if len(lettres) != len(QUESTIONS):
             sys.exit(f"--reponses doit contenir {len(QUESTIONS)} valeurs (une par question).")
         reponses = {q["cle"]: l for q, l in zip(QUESTIONS, lettres)}
         poids, n_ajouts = calculer_poids(reponses)
-        print(f"Réponses : {reponses}")
-        afficher_resultat(df, poids, reponses, n_ajouts)
+        filtre = reponses.get("region") == "B"
+        afficher_resultat(df, poids, reponses, n_ajouts, dom_latlon, filtre)
     else:
         quiz_interactif(df)
 
