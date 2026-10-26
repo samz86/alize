@@ -84,7 +84,7 @@ export default function Demarche() {
           prix DVF indisponible en Alsace-Moselle) sont documentés dans le journal de bord du dépôt.
         </p>
         <p>
-          <a href="https://github.com/samz86/edu-move" target="_blank" rel="noreferrer">github.com/samz86/edu-move</a>
+          <a href="https://github.com/samz86/alize" target="_blank" rel="noreferrer">github.com/samz86/alize</a>
         </p>
       </section>
     </div>
