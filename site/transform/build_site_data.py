@@ -130,7 +130,7 @@ def main():
     for _, r in df.iterrows():
         nom = str(r[ville_col]).strip()
         slug = slugify(nom)
-        intro, risque = lire_annotates(CONTENU / f"{slug}.md")
+        intro, risque = lire_annotes(CONTENU / f"{slug}.md")
         anc = ancrage.get(nom, {})
         villes.append({
             "slug": slug, "nom": nom,
