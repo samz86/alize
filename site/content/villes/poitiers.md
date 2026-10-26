@@ -20,15 +20,15 @@ Poitiers combine une forte présence des jeunes et un logement accessible. Sur l
 
 ## Forces data-driven
 
-<b>La ville la plus étudiante du panel, tous ratios confondus.</b> 27,5 % de 15-24 ans (1re sur 20), 32,2 étudiants pour 100 habitants (2e) : Poitiers est une ville dont le rythme, l'économie locale et l'identité sont façonnés par sa population étudiante. Pour un étudiant, cela signifie une ville à son image, festive, cyclable, bon marché, plutôt qu'une métropole où il se fond dans la masse.
+**La ville la plus étudiante du panel, tous ratios confondus.** 27,5 % de 15-24 ans (1re sur 20), 32,2 étudiants pour 100 habitants (2e) : Poitiers est une ville dont le rythme, l'économie locale et l'identité sont façonnés par sa population étudiante. Pour un étudiant, cela signifie une ville à son image, festive, cyclable, bon marché, plutôt qu'une métropole où il se fond dans la masse.
 
-<b>Un coût du logement parmi les plus faibles du panel.</b> 2 531 €/m², taux d'effort de 31,6 % : l'étudiant poitevin garde environ deux tiers de son budget pour tout le reste, sorties, alimentation, périphérique. C'est le troisième taux d'effort le plus faible des 20 villes, à un souffle de Nancy (31,5 %) et derrière Clermont-Ferrand (28,4 %). À l'échelle d'une année, la différence face à Rennes (46,6 %) représente près de 1 400 € de budget disponible en plus.
+**Un coût du logement parmi les plus faibles du panel.** 2 531 €/m², taux d'effort de 31,6 % : l'étudiant poitevin garde environ deux tiers de son budget pour tout le reste, sorties, alimentation, périphérique. C'est le troisième taux d'effort le plus faible des 20 villes, à un souffle de Nancy (31,5 %) et derrière Clermont-Ferrand (28,4 %). À l'échelle d'une année, la différence face à Rennes (46,6 %) représente près de 1 400 € de budget disponible en plus.
 
 ## Faiblesses
 
-<b>L'emploi, angle mort du dossier poitevin.</b> Chômage à 15,6 % (1,5 point au-dessus de la moyenne des 20), part de cadres à 23 % (15e), professions intermédiaires à 25,8 % : le score emploi de 34,7 est le plus faible du top 10. Ces résultats font de l'insertion professionnelle un point à examiner ; ils ne permettent pas, seuls, de mesurer la rétention des diplômés.
+**L'emploi, angle mort du dossier poitevin.** Chômage à 15,6 % (1,5 point au-dessus de la moyenne des 20), part de cadres à 23 % (15e), professions intermédiaires à 25,8 % : le score emploi de 34,7 est le plus faible du top 10. Ces résultats font de l'insertion professionnelle un point à examiner ; ils ne permettent pas, seuls, de mesurer la rétention des diplômés.
 
-<b>La plus petite masse du haut du classement.</b> 28 918 étudiants (14e sur 20) et un score formation de 8,0 (19e) : l'offre de formations, réelle et diversifiée à l'échelle de l'université de Poitiers, ne peut pas rivaliser avec les écosystèmes lyonnais ou toulousains en profondeur de filières et grandes écoles. Un étudiant en quête d'une filière pointue ne trouvera pas toujours sa voie à Poitiers.
+**La plus petite masse du haut du classement.** 28 918 étudiants (14e sur 20) et un score formation de 8,0 (19e) : l'offre de formations, réelle et diversifiée à l'échelle de l'université de Poitiers, ne peut pas rivaliser avec les écosystèmes lyonnais ou toulousains en profondeur de filières et grandes écoles. Un étudiant en quête d'une filière pointue ne trouvera pas toujours sa voie à Poitiers.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Avec un loyer moyen de studio autour de 340 € et une colocation à 350 €, Po
 
 ## Leviers d'action
 
-1. <b>Créer le pont étude-emploi.</b> Un enjeu à approfondir : l'écart entre le score démographie (91,7) et le score emploi (34,7) est le plus grand du panel. Leviers : développement de l'apprentissage avec les entreprises du bassin (Nouvelle-Aquitaine, la région qui gagne des emplois), incubation étudiante, liaison directe avec les technopoles régionales. Le taux d'ancrage (KPI 2) dira si Poitiers exporte ses diplômés ou les garde.
-2. <b>Vendre « l'excellence à petit budget » aux franciliens.</b> À 1h30 de Paris en TGV, avec un taux d'effort de 31,6 %, Poitiers est l'alternative rationnelle au renchérissement parisien, un positionnement marketing de ville à activer.
-3. <b>Préserver le parc CROUS.</b> 4 500 logements pour 29 000 étudiants, c'est un patrimoine stratégique qui tient le score logement à 96,6 ; toute érosion de ce parc se lirait immédiatement dans le classement. À défendre comme une infrastructure critique, pas comme une ligne budgétaire.
+1. **Créer le pont étude-emploi.** Un enjeu à approfondir : l'écart entre le score démographie (91,7) et le score emploi (34,7) est le plus grand du panel. Leviers : développement de l'apprentissage avec les entreprises du bassin (Nouvelle-Aquitaine, la région qui gagne des emplois), incubation étudiante, liaison directe avec les technopoles régionales. Le taux d'ancrage (KPI 2) dira si Poitiers exporte ses diplômés ou les garde.
+2. **Vendre « l'excellence à petit budget » aux franciliens.** À 1h30 de Paris en TGV, avec un taux d'effort de 31,6 %, Poitiers est l'alternative rationnelle au renchérissement parisien, un positionnement marketing de ville à activer.
+3. **Préserver le parc CROUS.** 4 500 logements pour 29 000 étudiants, c'est un patrimoine stratégique qui tient le score logement à 96,6 ; toute érosion de ce parc se lirait immédiatement dans le classement. À défendre comme une infrastructure critique, pas comme une ligne budgétaire.
 
 ## Risque de pari
 

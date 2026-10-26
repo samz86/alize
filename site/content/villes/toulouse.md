@@ -20,17 +20,17 @@ Toulouse présente un décalage entre les classements : sacrée meilleure ville 
 
 ## Forces data-driven
 
-<b>Une masse universitaire de rang national.</b> 117 093 étudiants (3e du panel), 36,8 au score formation (4e), portée par un écosystème unique : UT Capitole, UT3 Paul Sabatier, ISAE-Supaéro, INSA, et la présence d'Airbus, du CNES et de Thales Alenia Space ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/universites-toulouse-2026)). Toulouse est la seule ville du panel dont l'attractivité académique est adossée à une filière industrielle mondiale.
+**Une masse universitaire de rang national.** 117 093 étudiants (3e du panel), 36,8 au score formation (4e), portée par un écosystème unique : UT Capitole, UT3 Paul Sabatier, ISAE-Supaéro, INSA, et la présence d'Airbus, du CNES et de Thales Alenia Space ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/universites-toulouse-2026)). Toulouse est la seule ville du panel dont l'attractivité académique est adossée à une filière industrielle mondiale.
 
-<b>Un marché de l'emploi qualifié réel.</b> 34,8 % de cadres (5e), 55,2 % de diplômés du supérieur (4e), chômage dans la moyenne (14,3 %) : le profil toulousain est celui d'une métropole technologique. Le prix du m² diplômé reste parmi les plus bas du panel des grandes villes.
+**Un marché de l'emploi qualifié réel.** 34,8 % de cadres (5e), 55,2 % de diplômés du supérieur (4e), chômage dans la moyenne (14,3 %) : le profil toulousain est celui d'une métropole technologique. Le prix du m² diplômé reste parmi les plus bas du panel des grandes villes.
 
-<b>Un coût encore maîtrisé.</b> Malgré la dégradation, 3 391 €/m² et un taux d'effort de 42,4 % restent nettement sous Lyon (56,6 %) ou Paris (122 %) : la Ville rose conserve une longueur d'avance sur ses concurrentes directes de rang métropolitain.
+**Un coût encore maîtrisé.** Malgré la dégradation, 3 391 €/m² et un taux d'effort de 42,4 % restent nettement sous Lyon (56,6 %) ou Paris (122 %) : la Ville rose conserve une longueur d'avance sur ses concurrentes directes de rang métropolitain.
 
 ## Faiblesses
 
-<b>La démographie diluée.</b> Pour 514 819 habitants, la densité étudiante tombe à 22,7 % (11e) et la part de 15-24 ans à 21,6 % (10e). Toulouse attire massivement mais étale ses étudiants dans une grande métropole : l'effet « ville étudiante » y est moins intense qu'à Caen ou Poitiers.
+**La démographie diluée.** Pour 514 819 habitants, la densité étudiante tombe à 22,7 % (11e) et la part de 15-24 ans à 21,6 % (10e). Toulouse attire massivement mais étale ses étudiants dans une grande métropole : l'effet « ville étudiante » y est moins intense qu'à Caen ou Poitiers.
 
-<b>La dégradation du coût à surveiller.</b> La tendance est la menace principale : entre flambée des loyers, hausse des transports et manque de logements CROUS, les organisations étudiantes alertent sur une situation de plus en plus difficile pour les plus précaires ([France 3](https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/ma-bourse-ne-suffirait-pas-a-payer-le-loyer-a-toulouse-la-vie-etudiante-devient-de-plus-en-plus-chere-les-associations-tirent-la-sonnette-d-alarme-3410054.html)).
+**La dégradation du coût à surveiller.** La tendance est la menace principale : entre flambée des loyers, hausse des transports et manque de logements CROUS, les organisations étudiantes alertent sur une situation de plus en plus difficile pour les plus précaires ([France 3](https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/ma-bourse-ne-suffirait-pas-a-payer-le-loyer-a-toulouse-la-vie-etudiante-devient-de-plus-en-plus-chere-les-associations-tirent-la-sonnette-d-alarme-3410054.html)).
 
 ## Contexte local
 
@@ -38,9 +38,9 @@ Le budget étudiant toulousain est l'un des plus étudiés de France : comptez 8
 
 ## Leviers d'action
 
-1. <b>Limiter la hausse du coût du logement.</b> La hausse de 7,1 % du logement ([France 3](https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/ma-bourse-ne-suffirait-pas-a-payer-le-loyer-a-toulouse-la-vie-etudiante-devient-de-plus-en-plus-chere-les-associations-tirent-la-sonnette-d-alarme-3410054.html)) est le signal d'alarme : une hausse du coût du logement pourrait dégrader son score, mais son effet sur le rang doit être simulé.
-2. <b>Étendre le modèle « Cité U à 217 € ».</b> Le différentiel entre loyer CROUS et parc privé est le levier de solvabilisation le plus puissant du panel, chaque centaine de places protège des centaines d'étudiants de la précarité.
-3. <b>Conserver l'avantage transport.</b> Le pass à 15,50 €/mois compense partiellement le renchérissement du logement ; le gratuit pour les boursiers échelon 7 est un modèle à généraliser.
+1. **Limiter la hausse du coût du logement.** La hausse de 7,1 % du logement ([France 3](https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/ma-bourse-ne-suffirait-pas-a-payer-le-loyer-a-toulouse-la-vie-etudiante-devient-de-plus-en-plus-chere-les-associations-tirent-la-sonnette-d-alarme-3410054.html)) est le signal d'alarme : une hausse du coût du logement pourrait dégrader son score, mais son effet sur le rang doit être simulé.
+2. **Étendre le modèle « Cité U à 217 € ».** Le différentiel entre loyer CROUS et parc privé est le levier de solvabilisation le plus puissant du panel, chaque centaine de places protège des centaines d'étudiants de la précarité.
+3. **Conserver l'avantage transport.** Le pass à 15,50 €/mois compense partiellement le renchérissement du logement ; le gratuit pour les boursiers échelon 7 est un modèle à généraliser.
 
 ## Risque de pari
 

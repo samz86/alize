@@ -20,15 +20,15 @@ Nice occupe la dernière place du classement de l'Atlas. 20e avec 32,9 points, l
 
 ## Forces data-driven
 
-<b>Un chômage sous la moyenne et un marché de tourisme actif.</b> À 12,8 % (−1,2 point), le chômage niçois est dans la moitié basse du panel, et l'économie du tourisme, des congrès et de la tech (Sophia Antipolis à proximité) offre des débouchés réels pour les jobs étudiants comme pour l'emploi qualifié du bassin.
+**Un chômage sous la moyenne et un marché de tourisme actif.** À 12,8 % (−1,2 point), le chômage niçois est dans la moitié basse du panel, et l'économie du tourisme, des congrès et de la tech (Sophia Antipolis à proximité) offre des débouchés réels pour les jobs étudiants comme pour l'emploi qualifié du bassin.
 
-<b>Une masse étudiante absolue réelle.</b> 42 968 étudiants (5e du panel) : l'université Côte d'Azur, EDHEC, SKEMA et Polytech Nice-Sophia structurent une offre établie, diluée dans une ville de 357 737 habitants.
+**Une masse étudiante absolue réelle.** 42 968 étudiants (5e du panel) : l'université Côte d'Azur, EDHEC, SKEMA et Polytech Nice-Sophia structurent une offre établie, diluée dans une ville de 357 737 habitants.
 
 ## Faiblesses
 
-<b>Le score démographie le plus faible du panel.</b> Score de 3,3 : 12,0 % de densité étudiante (19e), 12,7 % de 15-24 ans (20e et dernier). La part des jeunes est faible dans ce panel. Elle ne permet pas, à elle seule, de caractériser la vie de campus ou les conditions d'études.
+**Le score démographie le plus faible du panel.** Score de 3,3 : 12,0 % de densité étudiante (19e), 12,7 % de 15-24 ans (20e et dernier). La part des jeunes est faible dans ce panel. Elle ne permet pas, à elle seule, de caractériser la vie de campus ou les conditions d'études.
 
-<b>Le 2e prix immobilier et un effort de 61,8 %.</b> Derrière Paris seulement : 4 941 €/m², taux d'effort de 61,8 %. Le studio niçois tourne autour de 620-780 €, parmi les plus chers hors Paris ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/universites-nice-2026)).
+**Le 2e prix immobilier et un effort de 61,8 %.** Derrière Paris seulement : 4 941 €/m², taux d'effort de 61,8 %. Le studio niçois tourne autour de 620-780 €, parmi les plus chers hors Paris ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/universites-nice-2026)).
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Le CROUS Nice-Toulon gère environ 5 000 lits répartis dans une vingtaine de r�
 
 ## Leviers d'action
 
-1. <b>Construire l'offre CROUS à la hauteur du bassin.</b> 5 000 lits pour 43 000 étudiants, dans la 2e ville la plus chère du panel : chaque place protège un étudiant de l'arbitrage logement/études. Les KAPS à 200 € sont le modèle solidaire à amplifier.
-2. <b>Reconcentrer la vie étudiante.</b> La dispersion démographique est le problème n°1 : pôles étudiants structurés autour des campus Valrose-Carlone-Trotabas pour rendre la ville lisible et vivante pour les étudiants.
-3. <b>Connecter le bassin Sophia Antipolis.</b> La tech de Sophia Antipolis est à 30 minutes : en faire le débouché naturel des filières scientifiques niçoises compenserait partiellement le déficit local.
+1. **Construire l'offre CROUS à la hauteur du bassin.** 5 000 lits pour 43 000 étudiants, dans la 2e ville la plus chère du panel : chaque place protège un étudiant de l'arbitrage logement/études. Les KAPS à 200 € sont le modèle solidaire à amplifier.
+2. **Reconcentrer la vie étudiante.** La dispersion démographique est le problème n°1 : pôles étudiants structurés autour des campus Valrose-Carlone-Trotabas pour rendre la ville lisible et vivante pour les étudiants.
+3. **Connecter le bassin Sophia Antipolis.** La tech de Sophia Antipolis est à 30 minutes : en faire le débouché naturel des filières scientifiques niçoises compenserait partiellement le déficit local.
 
 ## Risque de pari
 

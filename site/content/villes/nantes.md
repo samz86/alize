@@ -20,15 +20,15 @@ Nantes obtient un score emploi plus favorable que son score démographie. 11e du
 
 ## Forces data-driven
 
-<b>Un marché de l'emploi de métropole.</b> Chômage à 13,1 % (−0,9 point sous la moyenne), 34,9 % de cadres, 55,0 % de diplômés du supérieur : le score emploi de 62,1 est le 4e du panel. Le tissu nantais, aéronautique, numérique, santé, agroalimentaire, absorbe les diplômés localement, à distance de la métropole parisienne.
+**Un marché de l'emploi de métropole.** Chômage à 13,1 % (−0,9 point sous la moyenne), 34,9 % de cadres, 55,0 % de diplômés du supérieur : le score emploi de 62,1 est le 4e du panel. Le tissu nantais, aéronautique, numérique, santé, agroalimentaire, absorbe les diplômés localement, à distance de la métropole parisienne.
 
-<b>Un logement qui reste sous contrôle pour une métropole.</b> 3 452 €/m² et un taux d'effort de 43,2 % : la 9e performance du panel, meilleure que Lille (50,4 %) ou Lyon (56,6 %) à profil comparable.
+**Un logement qui reste sous contrôle pour une métropole.** 3 452 €/m² et un taux d'effort de 43,2 % : la 9e performance du panel, meilleure que Lille (50,4 %) ou Lyon (56,6 %) à profil comparable.
 
 ## Faiblesses
 
-<b>La démographie étudiante la plus diluée du panel avec Bordeaux et Nice.</b> 18,1 % de densité étudiante (17e), 18,8 % de 15-24 ans (15e) : pour 327 734 habitants, les étudiants représentent une part plus faible de la population communale que dans plusieurs autres villes du panel. Nantes attire, mais n'est pas vécue comme une ville étudiante à l'échelle du panel.
+**La démographie étudiante la plus diluée du panel avec Bordeaux et Nice.** 18,1 % de densité étudiante (17e), 18,8 % de 15-24 ans (15e) : pour 327 734 habitants, les étudiants représentent une part plus faible de la population communale que dans plusieurs autres villes du panel. Nantes attire, mais n'est pas vécue comme une ville étudiante à l'échelle du panel.
 
-<b>Un score démographie de 34,5 qui réduit le score global.</b> C'est le seul pilier sous la moyenne des 20 villes : son effet sur le rang dépend des pondérations et doit être vérifié par simulation.
+**Un score démographie de 34,5 qui réduit le score global.** C'est le seul pilier sous la moyenne des 20 villes : son effet sur le rang dépend des pondérations et doit être vérifié par simulation.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Le loyer moyen étudiant à Nantes en 2025-2026 est de 511 € pour un studio de
 
 ## Leviers d'action
 
-1. <b>Concentrer la vie étudiante.</b> Avec une densité aussi diluée, le défi nantais est spatial : pôles étudiants structurés (campus, résidences, services) plutôt qu'un étalement qui dilue l'expérience étudiante.
-2. <b>Tenir le logement pendant la croissance.</b> La métropole gagne des emplois et des habitants ; le taux d'effort de 43,2 % est la variable à défendre pour ne pas basculer côté Lyon.
-3. <b>Capitaliser sur l'emploi pour attirer les étudiants.</b> Le score emploi de 62,1 est un argument de recrutement académique : les filières orientées insertion (apprentissage, alternance) en sont le relais naturel.
+1. **Concentrer la vie étudiante.** Avec une densité aussi diluée, le défi nantais est spatial : pôles étudiants structurés (campus, résidences, services) plutôt qu'un étalement qui dilue l'expérience étudiante.
+2. **Tenir le logement pendant la croissance.** La métropole gagne des emplois et des habitants ; le taux d'effort de 43,2 % est la variable à défendre pour ne pas basculer côté Lyon.
+3. **Capitaliser sur l'emploi pour attirer les étudiants.** Le score emploi de 62,1 est un argument de recrutement académique : les filières orientées insertion (apprentissage, alternance) en sont le relais naturel.
 
 ## Risque de pari
 

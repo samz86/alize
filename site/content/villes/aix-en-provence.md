@@ -18,15 +18,15 @@ Aix-en-Provence incarne le dilemme du sud attractif : la ville a un excellent ma
 
 ## Forces data-driven
 
-<b>Un marché de l'emploi de métropole.</b> Chômage à 11,2 % (3e plus bas des 20, ex æquo avec Lyon), 33,9 % de cadres, 53,3 % de diplômés du supérieur : le score emploi de 72,9 est le 3e du panel. Aix vit dans l'orbite économique de la métropole Aix-Marseille et héberge une population active très qualifiée.
+**Un marché de l'emploi de métropole.** Chômage à 11,2 % (3e plus bas des 20, ex æquo avec Lyon), 33,9 % de cadres, 53,3 % de diplômés du supérieur : le score emploi de 72,9 est le 3e du panel. Aix vit dans l'orbite économique de la métropole Aix-Marseille et héberge une population active très qualifiée.
 
-<b>Une population étudiante importante.</b> 42 165 étudiants (4e du panel), 28,2 % de densité étudiante (6e) : la ville, avec le campus d'Aix-Marseille, Arts et Métiers ParisTech et de nombreux instituts et écoles supérieures, est une ville universitaire de rayonnement national ([Location-étudiant.fr](https://www.location-etudiant.fr/residences-etudiantes-aix-en-provence.html)).
+**Une population étudiante importante.** 42 165 étudiants (4e du panel), 28,2 % de densité étudiante (6e) : la ville, avec le campus d'Aix-Marseille, Arts et Métiers ParisTech et de nombreux instituts et écoles supérieures, est une ville universitaire de rayonnement national ([Location-étudiant.fr](https://www.location-etudiant.fr/residences-etudiantes-aix-en-provence.html)).
 
 ## Faiblesses
 
-<b>Le logement, 3e plus cher du panel.</b> 4 921 €/m², 46 % de plus que la moyenne des 20 villes ; le taux d'effort grimpe à 61,5 % (18e sur 20). Le score logement de 64,7 réduit le score global. Les conditions réelles dépendent toutefois du logement trouvé et des ressources de l'étudiant.
+**Le logement, 3e plus cher du panel.** 4 921 €/m², 46 % de plus que la moyenne des 20 villes ; le taux d'effort grimpe à 61,5 % (18e sur 20). Le score logement de 64,7 réduit le score global. Les conditions réelles dépendent toutefois du logement trouvé et des ressources de l'étudiant.
 
-<b>Pilier formation moyen (21,8).</b> Malgré le campus, la profondeur de l'offre locale reste sous les très grands pôles.
+**Pilier formation moyen (21,8).** Malgré le campus, la profondeur de l'offre locale reste sous les très grands pôles.
 
 ## Contexte local
 
@@ -34,9 +34,9 @@ La tension immobilière aixoise structure toute la vie étudiante : près d'un �
 
 ## Leviers d'action
 
-1. <b>Développer l'offre CROUS/intermédiaire en volume.</b> À 4 921 €/m², chaque place CROUS supplémentaire protège un étudiant de la précarité ou de l'éloignement ; la colocation à 450 € est déjà la réponse spontanée du marché à amplifier.
-2. <b>Jouer l'axe Aix-Marseille.</b> La solution logement aixoise est partiellement marseillaise (loyers inférieurs, desserte train/bus) : c'est exactement le KPI 3 (écart prix ville/couronne), ici, l'écart joue à 40 minutes de train.
-3. <b>Présenter les débouchés du bassin aux étudiants en fin de cursus.</b> Avec un score emploi de 72,9 et un cadre de vie méditerranéen, Aix peut se positionner sur les étudiants en fin de cursus (masters, doctorats) plus solvables et mobiles.
+1. **Développer l'offre CROUS/intermédiaire en volume.** À 4 921 €/m², chaque place CROUS supplémentaire protège un étudiant de la précarité ou de l'éloignement ; la colocation à 450 € est déjà la réponse spontanée du marché à amplifier.
+2. **Jouer l'axe Aix-Marseille.** La solution logement aixoise est partiellement marseillaise (loyers inférieurs, desserte train/bus) : c'est exactement le KPI 3 (écart prix ville/couronne), ici, l'écart joue à 40 minutes de train.
+3. **Présenter les débouchés du bassin aux étudiants en fin de cursus.** Avec un score emploi de 72,9 et un cadre de vie méditerranéen, Aix peut se positionner sur les étudiants en fin de cursus (masters, doctorats) plus solvables et mobiles.
 
 ## Risque de pari
 

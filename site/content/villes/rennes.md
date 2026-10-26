@@ -19,17 +19,17 @@ Rennes présente un profil équilibré : ses quatre scores sont supérieurs à l
 
 ## Forces data-driven
 
-<b>La seule ville qui combine masse et ratio.</b> 74 079 étudiants (5e du panel) pour 230 890 habitants, soit une densité étudiante de 32,1 % (3e). Les autres villes du top 5 sont soit grosses mais diluées (Lyon : 132 700 étudiants mais 25,6 % de densité), soit denses mais petites (Poitiers, Nancy). Rennes est la seule à tenir les deux bouts : assez grande pour offrir un vrai écosystème (deux universités, écoles d'ingénieurs, Rennes School of Business, EHESP), assez concentrée pour que l'étudiant soit un acteur visible de la ville.
+**La seule ville qui combine masse et ratio.** 74 079 étudiants (5e du panel) pour 230 890 habitants, soit une densité étudiante de 32,1 % (3e). Les autres villes du top 5 sont soit grosses mais diluées (Lyon : 132 700 étudiants mais 25,6 % de densité), soit denses mais petites (Poitiers, Nancy). Rennes est la seule à tenir les deux bouts : assez grande pour offrir un vrai écosystème (deux universités, écoles d'ingénieurs, Rennes School of Business, EHESP), assez concentrée pour que l'étudiant soit un acteur visible de la ville.
 
-<b>Un marché de l'emploi au-dessus du lot.</b> Chômage à 13,8 % (−0,3 point sous la moyenne des 20 villes, 3e plus bas du panel), un tiers de cadres, 53,3 % de diplômés du supérieur : le profil économique rennais, numérique, cyberdéfense, agroalimentaire, santé, offre des débouchés réels, y compris pour les jeunes diplômés. C'est ce couple démographie + emploi qui fait la différence au classement général.
+**Un marché de l'emploi au-dessus du lot.** Chômage à 13,8 % (−0,3 point sous la moyenne des 20 villes, 3e plus bas du panel), un tiers de cadres, 53,3 % de diplômés du supérieur : le profil économique rennais, numérique, cyberdéfense, agroalimentaire, santé, offre des débouchés réels, y compris pour les jeunes diplômés. C'est ce couple démographie + emploi qui fait la différence au classement général.
 
-<b>Une robustesse remarquable.</b> Dans l'analyse de sensibilité, Rennes ne quitte jamais le top 5, quel que soit le scénario (égalitaire, pro-logement, pro-emploi, pro-démographie, pro-formation). Son classement reste donc stable dans les scénarios testés, sans que cette analyse permette de prévoir son évolution future.
+**Une robustesse remarquable.** Dans l'analyse de sensibilité, Rennes ne quitte jamais le top 5, quel que soit le scénario (égalitaire, pro-logement, pro-emploi, pro-démographie, pro-formation). Son classement reste donc stable dans les scénarios testés, sans que cette analyse permette de prévoir son évolution future.
 
 ## Faiblesses
 
-<b>Le logement, seule vraie tension.</b> 3 729 €/m² (12e sur 20, en plein milieu de tableau) mais un taux d'effort de 46,6 % : l'étudiant rennais donne presque la moitié de son budget au loyer, contre un tiers à Nancy ou Poitiers. Le score logement (80,6) reste bon, mais il masque une tension locative réelle, la demande étudiante et active converge sur un parc restreint, et la réputation de la ville joue contre elle : plus elle attire, plus elle renchérit.
+**Le logement, seule vraie tension.** 3 729 €/m² (12e sur 20, en plein milieu de tableau) mais un taux d'effort de 46,6 % : l'étudiant rennais donne presque la moitié de son budget au loyer, contre un tiers à Nancy ou Poitiers. Le score logement (80,6) reste bon, mais il masque une tension locative réelle, la demande étudiante et active converge sur un parc restreint, et la réputation de la ville joue contre elle : plus elle attire, plus elle renchérit.
 
-<b>Un tissu de cadres perfectible.</b> 33 % de cadres, c'est le 6e rang, très honorable, mais à distance de Lyon (38,9 %) ou Paris (50,5 %). Le secteur privé rennais, dynamique, reste moins dense en sièges et fonctions supérieures que les métropoles de rang supérieur.
+**Un tissu de cadres perfectible.** 33 % de cadres, c'est le 6e rang, très honorable, mais à distance de Lyon (38,9 %) ou Paris (50,5 %). Le secteur privé rennais, dynamique, reste moins dense en sièges et fonctions supérieures que les métropoles de rang supérieur.
 
 ## Contexte local
 
@@ -37,9 +37,9 @@ La presse immobilière locale a formulé le diagnostic mieux que personne : à p
 
 ## Leviers d'action
 
-1. <b>Débloquer le logement étudiant, en urgence.</b> Le logement constitue un point de vigilance pour les étudiants. Les montages promoteur privé + bailleur social type My Campus Chateaubriand ([Rennes Immo](https://www.rennesimmo9.com/actualites/blog-guides/rennes-ville-etudiante-2026)) sont le modèle à multiplier ; chaque centaine de places agit directement sur le taux d'effort de 46,6 %.
-2. <b>Surveiller le renchérissement spéculatif.</b> Le bon score emploi attire, l'arrivée d'étudiants et de cadres pousse les prix. L'indicateur à suivre : l'écart de prix ville/couronne (KPI 3 du projet), si les communes limitrophes décrochent, la tension se déplace sans se résoudre.
-3. <b>Consolider les débouchés hors tech.</b> Le numérique-cyber absorbe les informaticiens ; pour les autres filières, Nantes et Paris aspirent une partie des promotions ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/etudiant-a-rennes-2026)). Diversifier les partenariats entreprises hors du numérique sécuriserait la 2e place.
+1. **Débloquer le logement étudiant, en urgence.** Le logement constitue un point de vigilance pour les étudiants. Les montages promoteur privé + bailleur social type My Campus Chateaubriand ([Rennes Immo](https://www.rennesimmo9.com/actualites/blog-guides/rennes-ville-etudiante-2026)) sont le modèle à multiplier ; chaque centaine de places agit directement sur le taux d'effort de 46,6 %.
+2. **Surveiller le renchérissement spéculatif.** Le bon score emploi attire, l'arrivée d'étudiants et de cadres pousse les prix. L'indicateur à suivre : l'écart de prix ville/couronne (KPI 3 du projet), si les communes limitrophes décrochent, la tension se déplace sans se résoudre.
+3. **Consolider les débouchés hors tech.** Le numérique-cyber absorbe les informaticiens ; pour les autres filières, Nantes et Paris aspirent une partie des promotions ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/etudiant-a-rennes-2026)). Diversifier les partenariats entreprises hors du numérique sécuriserait la 2e place.
 
 ## Risque de pari
 

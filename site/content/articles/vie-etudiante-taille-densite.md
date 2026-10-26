@@ -1,4 +1,4 @@
-« Une grande ville, ça bouge plus. » L'intuition mérite d'être confrontée aux données. Notre pilier démographie (25 % du poids de départ) mesure la part de la population qui vit la ville « côté étudiants » : densité étudiante (étudiants / habitants), part des 15-24 ans, poids démographique de la jeunesse. Verdict : les villes moyennes dominent. Le coefficient de Spearman entre densité étudiante et population, calculé sur les 20 villes, vaut <b>−0,47</b> : plus la ville est grande, plus la part d'étudiants tend à baisser.
+« Une grande ville, ça bouge plus. » L'intuition mérite d'être confrontée aux données. Notre pilier démographie (25 % du poids de départ) mesure la part de la population qui vit la ville « côté étudiants » : densité étudiante (étudiants / habitants), part des 15-24 ans, poids démographique de la jeunesse. Verdict : les villes moyennes dominent. Le coefficient de Spearman entre densité étudiante et population, calculé sur les 20 villes, vaut **−0,47** : plus la ville est grande, plus la part d'étudiants tend à baisser.
 
 ## Le podium de la vie étudiante
 

@@ -46,8 +46,8 @@ Un prix élevé signale souvent une ville demandée (Aix, Nice) — l'inverse d'
 
 ## Définitions, pour être précis
 
-- <b>Pilier formation</b> : 70 % d'effectifs étudiants (MESR, rentrée 2025-26) + 30 % de part de diplômés du supérieur (RP 2023). Il mesure la masse et la qualification de l'offre universitaire, pas sa qualité.
-- <b>Attractivité</b>, dans cet atlas : la facilité d'installation et de vie étudiante (logement, emploi, densité étudiante, formation), pas la demande immobilière. Un prix élevé signale une ville demandée — nous choisissons délibérément le point de vue de l'étudiant qui s'installe, pas celui du marché.
+- **Pilier formation** : 70 % d'effectifs étudiants (MESR, rentrée 2025-26) + 30 % de part de diplômés du supérieur (RP 2023). Il mesure la masse et la qualification de l'offre universitaire, pas sa qualité.
+- **Attractivité**, dans cet atlas : la facilité d'installation et de vie étudiante (logement, emploi, densité étudiante, formation), pas la demande immobilière. Un prix élevé signale une ville demandée — nous choisissons délibérément le point de vue de l'étudiant qui s'installe, pas celui du marché.
 
 ## Limites de lecture
 

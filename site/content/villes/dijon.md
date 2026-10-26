@@ -19,15 +19,15 @@ Dijon se distingue par un logement accessible et des indicateurs d'emploi favora
 
 ## Forces data-driven
 
-<b>Le meilleur équilibre logement-emploi des villes moyennes.</b> 2 836 €/m² (14e prix, sous la moyenne du panel) et un taux d'effort de 35,5 % (5e), mais contrairement à Poitiers ou Caen, le chômage est sous la moyenne des 20 villes (12,9 %, 4e plus bas) et la part de professions intermédiaires atteint 27,5 % (4e). Dijon est la seule ville moyenne du panel à combiner coût bas ET marché de l'emploi favorable : le profil type de la ville qui attire et retient.
+**Le meilleur équilibre logement-emploi des villes moyennes.** 2 836 €/m² (14e prix, sous la moyenne du panel) et un taux d'effort de 35,5 % (5e), mais contrairement à Poitiers ou Caen, le chômage est sous la moyenne des 20 villes (12,9 %, 4e plus bas) et la part de professions intermédiaires atteint 27,5 % (4e). Dijon est la seule ville moyenne du panel à combiner coût bas ET marché de l'emploi favorable : le profil type de la ville qui attire et retient.
 
-<b>Une base étudiante solide.</b> 37 536 étudiants pour 161 830 habitants, une densité de 23,2 % correcte, portée par l'université de Bourgogne et son campus.
+**Une base étudiante solide.** 37 536 étudiants pour 161 830 habitants, une densité de 23,2 % correcte, portée par l'université de Bourgogne et son campus.
 
 ## Faiblesses
 
-<b>Pilier formation en retrait (11,4).</b> Comme les autres villes moyennes, la profondeur de l'offre de formations (grandes écoles, filières pointues) reste sous les standards lyonnais ou toulousains.
+**Pilier formation en retrait (11,4).** Comme les autres villes moyennes, la profondeur de l'offre de formations (grandes écoles, filières pointues) reste sous les standards lyonnais ou toulousains.
 
-<b>Des cadres moins denses.</b> 24,1 % de cadres (15e) : le tissu dijonnais est riche en professions intermédiaires et emplois publics (santé, administration, agroalimentaire-viticole) mais moins en fonctions supérieures du privé.
+**Des cadres moins denses.** 24,1 % de cadres (15e) : le tissu dijonnais est riche en professions intermédiaires et emplois publics (santé, administration, agroalimentaire-viticole) mais moins en fonctions supérieures du privé.
 
 ## Contexte local
 
@@ -35,9 +35,9 @@ Dijon métropole a adopté fin septembre 2025 une feuille de route vie étudiant
 
 ## Leviers d'action
 
-1. <b>Suivre la mise en œuvre de la feuille de route étudiante.</b> Dijon a la feuille de route la plus aboutie du panel (2025-2027) ; sa capacité à tenir ses objectifs de logement étudiant fera de la ville le cas d'école « ville moyenne qui réussit » de l'article comparatif.
-2. <b>Évaluer le logement de courte durée pour les alternants.</b> Le logement à la carte pour alternants est une innovation copiable partout ; Dijon peut la porter nationalement.
-3. <b>Densifier les fonctions cadres du privé.</b> Le seul pilier où Dijon peut encore gagner : attirer des sièges et fonctions supérieures (santé, vin, agroalimentaire, logistique) consoliderait son avantage emploi.
+1. **Suivre la mise en œuvre de la feuille de route étudiante.** Dijon a la feuille de route la plus aboutie du panel (2025-2027) ; sa capacité à tenir ses objectifs de logement étudiant fera de la ville le cas d'école « ville moyenne qui réussit » de l'article comparatif.
+2. **Évaluer le logement de courte durée pour les alternants.** Le logement à la carte pour alternants est une innovation copiable partout ; Dijon peut la porter nationalement.
+3. **Densifier les fonctions cadres du privé.** Le seul pilier où Dijon peut encore gagner : attirer des sièges et fonctions supérieures (santé, vin, agroalimentaire, logistique) consoliderait son avantage emploi.
 
 ## Risque de pari
 

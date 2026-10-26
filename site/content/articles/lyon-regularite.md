@@ -19,8 +19,8 @@ Derrière ces chiffres : 132 700 étudiants (2e masse universitaire du panel), u
 
 La lecture croisée des piliers montre deux modèles de ville étudiante :
 
-- <b>Les villes spécialisées</b> : Poitiers et Caen dominent la démographie mais plafonnent sur l'emploi ; Clermont-Ferrand écrase le logement (100,0) mais ferme sur la formation (6,2).
-- <b>Les villes polyvalentes</b> : Lyon et, dans une moindre mesure, Toulouse (59,3, 6e) tirent leur rang d'une absence de faiblesse majeure.
+- **Les villes spécialisées** : Poitiers et Caen dominent la démographie mais plafonnent sur l'emploi ; Clermont-Ferrand écrase le logement (100,0) mais ferme sur la formation (6,2).
+- **Les villes polyvalentes** : Lyon et, dans une moindre mesure, Toulouse (59,3, 6e) tirent leur rang d'une absence de faiblesse majeure.
 
 C'est pourquoi Lyon sort en tête dans les scénarios de pondération qui rééquilibrent les piliers — et dans les profils du quiz qui valorisent à la fois formation et emploi. Sa note de risque est d'ailleurs A : elle ne la partage qu'avec Toulouse. Rappel de l'échelle : A = aucun pilier sous 30 ni dernière place ; B = un pilier sous 30 ou une dernière place ; C = au moins deux piliers sous 30 ou score global sous 45. La note décrit le risque que la ville ne colle pas aux priorités d'un étudiant, pas un défaut de paiement.
 

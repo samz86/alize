@@ -20,15 +20,15 @@ Montpellier compte une population étudiante importante, mais ses indicateurs d'
 
 ## Forces data-driven
 
-<b>Une démographie étudiante de premier ordre.</b> 87 343 étudiants (4e), 28,2 % de densité (6e), 22,4 % de 15-24 ans : Montpellier attire massivement, et sa croissance est encore tirée par l'international. Le score démographie de 68,2 est le 7e du panel.
+**Une démographie étudiante de premier ordre.** 87 343 étudiants (4e), 28,2 % de densité (6e), 22,4 % de 15-24 ans : Montpellier attire massivement, et sa croissance est encore tirée par l'international. Le score démographie de 68,2 est le 7e du panel.
 
-<b>Un logement encore abordable pour le sud.</b> 3 508 €/m², taux d'effort de 43,9 % : nettement sous Aix (4 921 €/m²) ou Nice (4 941 €/m²), la ville reste l'option méditerranéenne la plus accessible du panel.
+**Un logement encore abordable pour le sud.** 3 508 €/m², taux d'effort de 43,9 % : nettement sous Aix (4 921 €/m²) ou Nice (4 941 €/m²), la ville reste l'option méditerranéenne la plus accessible du panel.
 
 ## Faiblesses
 
-<b>Le taux de chômage le plus élevé du panel.</b> À 18,3 %, le chômage montpelliérain dépasse la moyenne des 20 villes de 4,3 points, l'écart le plus grand du classement. Score emploi de 24,6, 19e : la ville attire les étudiants mais son bassin ne les absorbe pas.
+**Le taux de chômage le plus élevé du panel.** À 18,3 %, le chômage montpelliérain dépasse la moyenne des 20 villes de 4,3 points, l'écart le plus grand du classement. Score emploi de 24,6, 19e : la ville attire les étudiants mais son bassin ne les absorbe pas.
 
-<b>Une tension locative qui monte.</b> Studio étudiant moyen passé de 533 € (2024) à 541 € (2025) puis environ 555 € à la rentrée 2026, +2,6 % sur un an malgré l'encadrement des loyers ([Hérault Tribune](https://echo-des-tribunes.com/herault-tribune/articles/logement-etudiant-a-montpellier-aides-loyers-encadres-bail-les-regles-a-connaitre-pour-la-rentree-2026)).
+**Une tension locative qui monte.** Studio étudiant moyen passé de 533 € (2024) à 541 € (2025) puis environ 555 € à la rentrée 2026, +2,6 % sur un an malgré l'encadrement des loyers ([Hérault Tribune](https://echo-des-tribunes.com/herault-tribune/articles/logement-etudiant-a-montpellier-aides-loyers-encadres-bail-les-regles-a-connaitre-pour-la-rentree-2026)).
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ L'encadrement des loyers est en vigueur dans la commune, sans empêcher la progr
 
 ## Leviers d'action
 
-1. <b>Traiter le chômage comme le chantier n°1.</b> Avec l'écart le plus grand du panel (+4,3 points), le score emploi est ce qui sépare Montpellier du top 5 : structurer l'insertion locale (santé, tech, agro) est la priorité absolue.
-2. <b>Encadrer la tension locative.</b> La saturation des nouvelles résidences du hub Cambacérès montre que la demande dépasse l'offre : construire plus vite que l'arrivée des étudiants est la seule réponse durable.
-3. <b>Convertir l'attractivité internationale en rétention.</b> +3 000 étudiants internationaux en 2025 ([Résidence Étudiante](https://www.residenceetudiante.fr/montpellier-34.html)) : c'est un vivier de diplômés que le bassin doit apprendre à employer.
+1. **Traiter le chômage comme le chantier n°1.** Avec l'écart le plus grand du panel (+4,3 points), le score emploi est ce qui sépare Montpellier du top 5 : structurer l'insertion locale (santé, tech, agro) est la priorité absolue.
+2. **Encadrer la tension locative.** La saturation des nouvelles résidences du hub Cambacérès montre que la demande dépasse l'offre : construire plus vite que l'arrivée des étudiants est la seule réponse durable.
+3. **Convertir l'attractivité internationale en rétention.** +3 000 étudiants internationaux en 2025 ([Résidence Étudiante](https://www.residenceetudiante.fr/montpellier-34.html)) : c'est un vivier de diplômés que le bassin doit apprendre à employer.
 
 ## Risque de pari
 

@@ -20,15 +20,15 @@ Tours occupe la douzième place du classement, avec un logement accessible et de
 
 ## Forces data-driven
 
-<b>Un logement parmi les points forts de la ville.</b> Score logement de 90,8 (6e) : 2 964 €/m², taux d'effort de 37,1 %, l'étudiant tourangeau conserve 63 % de son budget pour tout le reste. Le coût estimé du logement reste inférieur à celui de nombreuses villes du panel.
+**Un logement parmi les points forts de la ville.** Score logement de 90,8 (6e) : 2 964 €/m², taux d'effort de 37,1 %, l'étudiant tourangeau conserve 63 % de son budget pour tout le reste. Le coût estimé du logement reste inférieur à celui de nombreuses villes du panel.
 
-<b>Une ville étudiante à taille humaine.</b> 33 265 étudiants, 23,9 % de densité (10e) et 20,6 % de 15-24 ans : la ville vit son université, à une échelle où tout se fait à vélo.
+**Une ville étudiante à taille humaine.** 33 265 étudiants, 23,9 % de densité (10e) et 20,6 % de 15-24 ans : la ville vit son université, à une échelle où tout se fait à vélo.
 
 ## Faiblesses
 
-<b>Un marché de l'emploi modeste.</b> Chômage à 14,4 % (+0,3 point au-dessus de la moyenne), 24,6 % de cadres (11e) : le bassin tourangeau, santé, sous-traitance aéronautique, tourisme de Loire, ne retient pas massivement ses diplômés. Score emploi de 44,9, dans la moyenne basse du panel.
+**Un marché de l'emploi modeste.** Chômage à 14,4 % (+0,3 point au-dessus de la moyenne), 24,6 % de cadres (11e) : le bassin tourangeau, santé, sous-traitance aéronautique, tourisme de Loire, ne retient pas massivement ses diplômés. Score emploi de 44,9, dans la moyenne basse du panel.
 
-<b>Pilier formation faible (9,9).</b> L'offre locale, structurée autour de l'université de Tours, reste régionale : les profils pointus partent sur Paris ou Orléans-Tours.
+**Pilier formation faible (9,9).** L'offre locale, structurée autour de l'université de Tours, reste régionale : les profils pointus partent sur Paris ou Orléans-Tours.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ L'université de Tours oriente ses étudiants vers un écosystème complet : l'a
 
 ## Leviers d'action
 
-1. <b>Jouer la carte du Paris accessible.</b> À 1h10 de TGV et 37,1 % de taux d'effort, Tours est une option à comparer pour les étudiants franciliens, en tenant compte des trajets et du coût des transports.
-2. <b>Structurer l'emploi autour des filières locales.</b> Santé, aéronautique, tourisme de Loire : le bassin a des employeurs réels mais dispersés ; l'apprentissage et l'incubation peuvent les raccorder aux diplômés.
-3. <b>Tenir le score logement.</b> Le 6e rang du panel est l'actif compétitif de la ville : la pression francilienne sur l'immobilier de Loire est le risque à surveiller.
+1. **Jouer la carte du Paris accessible.** À 1h10 de TGV et 37,1 % de taux d'effort, Tours est une option à comparer pour les étudiants franciliens, en tenant compte des trajets et du coût des transports.
+2. **Structurer l'emploi autour des filières locales.** Santé, aéronautique, tourisme de Loire : le bassin a des employeurs réels mais dispersés ; l'apprentissage et l'incubation peuvent les raccorder aux diplômés.
+3. **Tenir le score logement.** Le 6e rang du panel est l'actif compétitif de la ville : la pression francilienne sur l'immobilier de Loire est le risque à surveiller.
 
 ## Risque de pari
 

@@ -20,15 +20,15 @@ Nancy arrive en tête de notre classement des 20 grandes villes universitaires f
 
 ## Forces data-driven
 
-<b>Le logement le plus accessible après Clermont-Ferrand.</b> Le prix médian d’un appartement atteint 2 517 €/m² en 2025, contre 9 774 €/m² à Paris. Nancy coûte donc près de quatre fois moins cher que la capitale et 32 % moins cher que Rennes. Avec notre estimation d’un loyer à 0,5 % de la valeur d’achat pour un studio de 20 m², un étudiant disposant de 800 € par mois consacre 31,5 % de son budget au logement. C’est la deuxième performance du panel, derrière Clermont-Ferrand.
+**Le logement le plus accessible après Clermont-Ferrand.** Le prix médian d’un appartement atteint 2 517 €/m² en 2025, contre 9 774 €/m² à Paris. Nancy coûte donc près de quatre fois moins cher que la capitale et 32 % moins cher que Rennes. Avec notre estimation d’un loyer à 0,5 % de la valeur d’achat pour un studio de 20 m², un étudiant disposant de 800 € par mois consacre 31,5 % de son budget au logement. C’est la deuxième performance du panel, derrière Clermont-Ferrand.
 
-<b>Une population étudiante importante.</b> Nancy compte 29 974 étudiants pour 103 671 habitants, soit une densité étudiante de 28,9 %, au 5e rang du panel. Les 15-24 ans représentent 26,7 % de la population, la deuxième proportion derrière Poitiers. Cette présence s’explique par l’université de Lorraine, Lorraine INP et un parc immobilier étudiant développé depuis plusieurs décennies. Les facultés restent proches du centre, notamment de la place Stanislas, et la vie associative est dense.
+**Une population étudiante importante.** Nancy compte 29 974 étudiants pour 103 671 habitants, soit une densité étudiante de 28,9 %, au 5e rang du panel. Les 15-24 ans représentent 26,7 % de la population, la deuxième proportion derrière Poitiers. Cette présence s’explique par l’université de Lorraine, Lorraine INP et un parc immobilier étudiant développé depuis plusieurs décennies. Les facultés restent proches du centre, notamment de la place Stanislas, et la vie associative est dense.
 
 ## Faiblesses
 
-<b>Un marché de l’emploi moyen.</b> Le taux de chômage dépasse de 0,4 point la moyenne des 20 villes et la part de cadres s’établit à 29,6 %, au 14e rang du panel. L’économie locale repose surtout sur des PMI industrielles et la fonction publique, avec peu de sièges de grandes entreprises. Ces indicateurs ne permettent toutefois pas, à eux seuls, de déterminer combien de diplômés quittent Nancy ni leurs destinations.
+**Un marché de l’emploi moyen.** Le taux de chômage dépasse de 0,4 point la moyenne des 20 villes et la part de cadres s’établit à 29,6 %, au 14e rang du panel. L’économie locale repose surtout sur des PMI industrielles et la fonction publique, avec peu de sièges de grandes entreprises. Ces indicateurs ne permettent toutefois pas, à eux seuls, de déterminer combien de diplômés quittent Nancy ni leurs destinations.
 
-<b>Une offre de formation moins large.</b> Nancy compte environ 30 000 étudiants, quatre fois moins que Lyon ou Toulouse. Sa force vient du rapport entre étudiants et habitants, pas du volume total de formations. L’offre de grandes écoles et de filières très spécialisées reste donc plus limitée que dans les métropoles de plus grande taille.
+**Une offre de formation moins large.** Nancy compte environ 30 000 étudiants, quatre fois moins que Lyon ou Toulouse. Sa force vient du rapport entre étudiants et habitants, pas du volume total de formations. L’offre de grandes écoles et de filières très spécialisées reste donc plus limitée que dans les métropoles de plus grande taille.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Le Grand Nancy met en avant son offre de logement étudiant : 35 % des étudiant
 
 ## Leviers d'action
 
-1. <b>Valoriser l’avantage prix.</b> Nancy affiche l’un des meilleurs rapports entre coût du logement et intensité étudiante du panel. Le taux d’effort de 31,5 % peut être opposé aux 46,6 % de Rennes et aux 122 % de Paris dans une communication destinée aux étudiants franciliens et lorrains.
-2. <b>Améliorer la rétention des diplômés.</b> Le principal point faible reste l’emploi. Le développement de l’apprentissage et des partenariats école-entreprise, notamment avec les secteurs automobile, énergie et bois, peut aider à retenir une partie des diplômés. Le taux d’ancrage, indicateur 2 du projet, devra être suivi dans une version ultérieure.
-3. <b>Élargir l’analyse au bassin Metz-Nancy.</b> À l’échelle de l’Eurométropole, le nombre d’étudiants augmente et le profil emploi s’améliore. Comme l’Atlas mesure des communes, Nancy est pénalisée par ce découpage. Une analyse par bassin de vie donnerait une image plus juste de son attractivité.
+1. **Valoriser l’avantage prix.** Nancy affiche l’un des meilleurs rapports entre coût du logement et intensité étudiante du panel. Le taux d’effort de 31,5 % peut être opposé aux 46,6 % de Rennes et aux 122 % de Paris dans une communication destinée aux étudiants franciliens et lorrains.
+2. **Améliorer la rétention des diplômés.** Le principal point faible reste l’emploi. Le développement de l’apprentissage et des partenariats école-entreprise, notamment avec les secteurs automobile, énergie et bois, peut aider à retenir une partie des diplômés. Le taux d’ancrage, indicateur 2 du projet, devra être suivi dans une version ultérieure.
+3. **Élargir l’analyse au bassin Metz-Nancy.** À l’échelle de l’Eurométropole, le nombre d’étudiants augmente et le profil emploi s’améliore. Comme l’Atlas mesure des communes, Nancy est pénalisée par ce découpage. Une analyse par bassin de vie donnerait une image plus juste de son attractivité.
 
 ## Risque de pari
 

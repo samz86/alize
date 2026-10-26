@@ -20,15 +20,15 @@ Le classement de Grenoble doit être interprété en tenant compte du périmètr
 
 ## Forces data-driven
 
-<b>Le 2e logement du panel, et un emploi de métropole scientifique.</b> 2 555 €/m², taux d'effort de 31,9 %, score logement de 96,2 : à ce niveau de prix, Grenoble offre en même temps 35,1 % de cadres et un chômage sous la moyenne (13,2 %) : le couple microélectronique-recherche (CEA-Leti, campus GIANT) structure un marché qualifié rare pour ce niveau de prix.
+**Le 2e logement du panel, et un emploi de métropole scientifique.** 2 555 €/m², taux d'effort de 31,9 %, score logement de 96,2 : à ce niveau de prix, Grenoble offre en même temps 35,1 % de cadres et un chômage sous la moyenne (13,2 %) : le couple microélectronique-recherche (CEA-Leti, campus GIANT) structure un marché qualifié rare pour ce niveau de prix.
 
-<b>Un environnement académique de rang national.</b> Université Grenoble Alpes, Grenoble INP, écoles d'ingénieurs : la ville est un pôle scientifique européen, invisible dans nos données communales, mais bien réel dans les classements.
+**Un environnement académique de rang national.** Université Grenoble Alpes, Grenoble INP, écoles d'ingénieurs : la ville est un pôle scientifique européen, invisible dans nos données communales, mais bien réel dans les classements.
 
 ## Faiblesses
 
-<b>Des indicateurs démographiques sensibles au périmètre.</b> Score démographie de 22,7, densité de 10,6 % : ces chiffres mesurent la commune de Grenoble, pas l'aire étudiante de Saint-Martin-d'Hères qui concentre le campus. L'ampleur de l'effet sur le classement reste à quantifier.
+**Des indicateurs démographiques sensibles au périmètre.** Score démographie de 22,7, densité de 10,6 % : ces chiffres mesurent la commune de Grenoble, pas l'aire étudiante de Saint-Martin-d'Hères qui concentre le campus. L'ampleur de l'effet sur le classement reste à quantifier.
 
-<b>Pilier formation sous-estimé (16,1).</b> Même raison : les effectifs du campus se logent dans les communes voisines.
+**Pilier formation sous-estimé (16,1).** Même raison : les effectifs du campus se logent dans les communes voisines.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ L'offre de logement étudiant se concentre autour du domaine universitaire : des
 
 ## Leviers d'action
 
-1. <b>Lire la ville à l'échelle du bassin.</b> Une analyse Grenoble + Saint-Martin-d'Hères + Gières permettrait de recalculer les indicateurs à un périmètre cohérent : c'est l'application directe du KPI 3 (écart prix ville/couronne) et un chantier v2 de l'Atlas.
-2. <b>Valoriser le couple recherche-emploi.</b> Le bassin microélectronique (CEA, STMicroelectronics) et les écoles d'ingénieurs forment un continuum études-emploi rare : à structurer en argument de recrutement.
-3. <b>Tenir le logement.</b> À 2 555 €/m² pour un bassin scientifique de rang mondial, le niveau de prix est un avantage compétitif à préserver face à Lyon et Toulouse.
+1. **Lire la ville à l'échelle du bassin.** Une analyse Grenoble + Saint-Martin-d'Hères + Gières permettrait de recalculer les indicateurs à un périmètre cohérent : c'est l'application directe du KPI 3 (écart prix ville/couronne) et un chantier v2 de l'Atlas.
+2. **Valoriser le couple recherche-emploi.** Le bassin microélectronique (CEA, STMicroelectronics) et les écoles d'ingénieurs forment un continuum études-emploi rare : à structurer en argument de recrutement.
+3. **Tenir le logement.** À 2 555 €/m² pour un bassin scientifique de rang mondial, le niveau de prix est un avantage compétitif à préserver face à Lyon et Toulouse.
 
 ## Risque de pari
 

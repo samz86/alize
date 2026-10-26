@@ -19,15 +19,15 @@ Angers se classe neuvième : 56,6 points, portés par un logement abordable (3 3
 
 ## Forces data-driven
 
-<b>Une démographie étudiante de premier plan.</b> 46 961 étudiants, plus que Caen, Dijon ou Nancy, et une densité de 29,5 % (4e du panel). Angers est structurellement une grande ville étudiante à taille moyenne.
+**Une démographie étudiante de premier plan.** 46 961 étudiants, plus que Caen, Dijon ou Nancy, et une densité de 29,5 % (4e du panel). Angers est structurellement une grande ville étudiante à taille moyenne.
 
-<b>Un logement qui reste dans les clous.</b> 3 333 €/m², taux d'effort de 41,7 % : l'étudiant angevin consacre deux points de moins de son budget au loyer que la moyenne du panel. La ville a tenu malgré la croissance continue de ses effectifs depuis vingt ans.
+**Un logement qui reste dans les clous.** 3 333 €/m², taux d'effort de 41,7 % : l'étudiant angevin consacre deux points de moins de son budget au loyer que la moyenne du panel. La ville a tenu malgré la croissance continue de ses effectifs depuis vingt ans.
 
 ## Faiblesses
 
-<b>L'emploi, la seule vraie limite.</b> Chômage à 15,4 % (16e), cadres 24,8 % (12e), score emploi 38,9 (14e) : le profil « attire pour étudier, retient moins pour travailler » des villes moyennes de l'ouest. Le bassin angevin (végétal, électronique, tourisme-loisir) offre des débouchés réels mais en volume limité.
+**L'emploi, la seule vraie limite.** Chômage à 15,4 % (16e), cadres 24,8 % (12e), score emploi 38,9 (14e) : le profil « attire pour étudier, retient moins pour travailler » des villes moyennes de l'ouest. Le bassin angevin (végétal, électronique, tourisme-loisir) offre des débouchés réels mais en volume limité.
 
-<b>Un signal démographique à surveiller.</b> La stagnation des effectifs à la rentrée 2025 ([Angers Info](https://my-angers.info/09/16/angers-logement-repas-travail-ce-qui-change-dans-la-vie-des-47-000-etudiants-cette-annee/195771)), si elle se confirme, marquerait la fin d'un cycle ; le classement d'Angers repose sur sa densité étudiante, qui ne peut plus être tenue pour acquise.
+**Un signal démographique à surveiller.** La stagnation des effectifs à la rentrée 2025 ([Angers Info](https://my-angers.info/09/16/angers-logement-repas-travail-ce-qui-change-dans-la-vie-des-47-000-etudiants-cette-annee/195771)), si elle se confirme, marquerait la fin d'un cycle ; le classement d'Angers repose sur sa densité étudiante, qui ne peut plus être tenue pour acquise.
 
 ## Contexte local
 
@@ -35,9 +35,9 @@ Les loyers angevins restent parmi les plus raisonnables de France : environ 530 
 
 ## Leviers d'action
 
-1. <b>Répondre à l'inflexion démographique.</b> La stagnation de 2025 est le signal à transformer en stratégie : identifier pourquoi Angers cesse de croître (concurrence de Nantes ? coût relatif ? offre de formation ?) avant que la densité étudiante ne s'érode.
-2. <b>Bâtir l'emploi qualifié autour des filières angevines.</b> Végétal et agriculture, électronique, tourisme-loisir : structurer des parcours reliant l'apprentissage à un emploi durable pour retenir les diplômés du territoire.
-3. <b>Maintenir l'avantage logement.</b> Le T1 à 530 € est l'atout compétitif d'Angers face à Nantes (45 % de cadres mais 3 452 €/m² et 18,1 % de densité étudiante seulement) : le garder est la stratégie.
+1. **Répondre à l'inflexion démographique.** La stagnation de 2025 est le signal à transformer en stratégie : identifier pourquoi Angers cesse de croître (concurrence de Nantes ? coût relatif ? offre de formation ?) avant que la densité étudiante ne s'érode.
+2. **Bâtir l'emploi qualifié autour des filières angevines.** Végétal et agriculture, électronique, tourisme-loisir : structurer des parcours reliant l'apprentissage à un emploi durable pour retenir les diplômés du territoire.
+3. **Maintenir l'avantage logement.** Le T1 à 530 € est l'atout compétitif d'Angers face à Nantes (45 % de cadres mais 3 452 €/m² et 18,1 % de densité étudiante seulement) : le garder est la stratégie.
 
 ## Risque de pari
 

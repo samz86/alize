@@ -19,15 +19,15 @@ Caen se classe cinquième grâce à sa densité étudiante et à son coût du lo
 
 ## Forces data-driven
 
-<b>La densité étudiante la plus élevée du panel (35,6 %).</b> Presque 36 étudiants pour 100 habitants : Caen est, en proportion, la ville la plus étudiante du panel, devant Poitiers (32,2 %) et Rennes (32,1 %). Avec 23,9 % de la population dans la tranche 15-24 ans (5e), la ville vit au rythme universitaire : économie de commerces, vie nocturne, associations. L'université Caen Normandie, l'un des plus grands campus de France, structure des quartiers entiers.
+**La densité étudiante la plus élevée du panel (35,6 %).** Presque 36 étudiants pour 100 habitants : Caen est, en proportion, la ville la plus étudiante du panel, devant Poitiers (32,2 %) et Rennes (32,1 %). Avec 23,9 % de la population dans la tranche 15-24 ans (5e), la ville vit au rythme universitaire : économie de commerces, vie nocturne, associations. L'université Caen Normandie, l'un des plus grands campus de France, structure des quartiers entiers.
 
-<b>Un logement qui reste rattrapable.</b> 3 118 €/m², c'est sous la moyenne des 20 villes ; le taux d'effort de 39,0 % place Caen dans le tiers supérieur. Le score logement de 88,7 est le 4e du panel : la ville n'a pas (encore) payé sa popularité étudiante en renchérissement.
+**Un logement qui reste rattrapable.** 3 118 €/m², c'est sous la moyenne des 20 villes ; le taux d'effort de 39,0 % place Caen dans le tiers supérieur. Le score logement de 88,7 est le 4e du panel : la ville n'a pas (encore) payé sa popularité étudiante en renchérissement.
 
 ## Faiblesses
 
-<b>L'emploi, même profil que Poitiers.</b> Chômage à 15,0 % (+1,0 point au-dessus de la moyenne des 20), part de cadres à 24,4 % (13e) : score emploi de 41,3. Caen attire et forme, mais son bassin économique, industrie, logistique portuaire, numérique naissant, retient moins ses diplômés. La rétention des diplômés doit cependant être mesurée avec des données de parcours ou de mobilité, au-delà des seuls indicateurs d'emploi.
+**L'emploi, même profil que Poitiers.** Chômage à 15,0 % (+1,0 point au-dessus de la moyenne des 20), part de cadres à 24,4 % (13e) : score emploi de 41,3. Caen attire et forme, mais son bassin économique, industrie, logistique portuaire, numérique naissant, retient moins ses diplômés. La rétention des diplômés doit cependant être mesurée avec des données de parcours ou de mobilité, au-delà des seuls indicateurs d'emploi.
 
-<b>Pilier formation contenu.</b> 38 976 étudiants, c'est une vraie masse, mais l'offre de formations pointues reste en retrait des grands pôles ; score formation de 11,3 (16e).
+**Pilier formation contenu.** 38 976 étudiants, c'est une vraie masse, mais l'offre de formations pointues reste en retrait des grands pôles ; score formation de 11,3 (16e).
 
 ## Contexte local
 
@@ -35,9 +35,9 @@ Le CROUS Normandie accompagne le logement étudiant sur l'ensemble du territoire
 
 ## Leviers d'action
 
-1. <b>Bâtir le pont vers l'emploi qualifié.</b> Comme Poitiers, Caen doit transformer sa densité étudiante (1re/20) en débouchés locaux : incubation, alternance avec la filière numérique et la logistique portuaire de l'axe Seine, liens avec l'écosystème Caen-la-Mer. Le taux d'ancrage (KPI 2) mesurera la rétention.
-2. <b>Tenir le prix pendant la notoriété.</b> Le score logement de 88,7 est la variable à défendre : la popularité croissante de Caen (classements presse) peut renchérir le parc, l'écart ville/couronne (KPI 3) est l'indicateur d'alerte.
-3. <b>Consolider l'offre de formations.</b> Passer de « grande ville étudiante » à « pôle de formations attractif » (masters pointus, grandes écoles) sécuriserait le pilier formation, son plus faible.
+1. **Bâtir le pont vers l'emploi qualifié.** Comme Poitiers, Caen doit transformer sa densité étudiante (1re/20) en débouchés locaux : incubation, alternance avec la filière numérique et la logistique portuaire de l'axe Seine, liens avec l'écosystème Caen-la-Mer. Le taux d'ancrage (KPI 2) mesurera la rétention.
+2. **Tenir le prix pendant la notoriété.** Le score logement de 88,7 est la variable à défendre : la popularité croissante de Caen (classements presse) peut renchérir le parc, l'écart ville/couronne (KPI 3) est l'indicateur d'alerte.
+3. **Consolider l'offre de formations.** Passer de « grande ville étudiante » à « pôle de formations attractif » (masters pointus, grandes écoles) sécuriserait le pilier formation, son plus faible.
 
 ## Risque de pari
 

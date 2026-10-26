@@ -20,15 +20,15 @@ Clermont-Ferrand obtient le meilleur score logement du panel, à 100/100. Ce ré
 
 ## Forces data-driven
 
-<b>Le meilleur rapport coût de la vie du panel.</b> Score logement de 100/100 : 2 273 €/m² (le moins cher des 20 villes), taux d'effort de 28,4 % (le plus faible). Aucune ville du panel ne laisse autant de budget disponible à l'étudiant, Clermont est bien placée sur le pilier logement, contrairement à Paris.
+**Le meilleur rapport coût de la vie du panel.** Score logement de 100/100 : 2 273 €/m² (le moins cher des 20 villes), taux d'effort de 28,4 % (le plus faible). Aucune ville du panel ne laisse autant de budget disponible à l'étudiant, Clermont est bien placée sur le pilier logement, contrairement à Paris.
 
-<b>Une vie étudiante à échelle humaine.</b> 22,7 % de 15-24 ans (7e du panel) et 29 987 étudiants : la ville vit son université et ses écoles, avec un habitant sur quatre dans la population étudiante selon les observateurs locaux ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/etudiant-a-clermont-ferrand-2026)).
+**Une vie étudiante à échelle humaine.** 22,7 % de 15-24 ans (7e du panel) et 29 987 étudiants : la ville vit son université et ses écoles, avec un habitant sur quatre dans la population étudiante selon les observateurs locaux ([Ma Ville Idéale](https://www.mavilleideale.fr/guides/etudiant-a-clermont-ferrand-2026)).
 
 ## Faiblesses
 
-<b>Un marché de l'emploi dans le bas du panel.</b> Chômage à 15,4 % (+1,4 point), 23,4 % de cadres (16e) : le bassin clermontois, Michelin, santé, recherche, reste dépendant d'un employeur industriel historique et retient difficilement les profils tertiaires.
+**Un marché de l'emploi dans le bas du panel.** Chômage à 15,4 % (+1,4 point), 23,4 % de cadres (16e) : le bassin clermontois, Michelin, santé, recherche, reste dépendant d'un employeur industriel historique et retient difficilement les profils tertiaires.
 
-<b>Pilier formation le plus faible du haut de tableau (6,2).</b> L'offre locale, réelle, reste celle d'un pôle régional : les filières pointues se jouent ailleurs.
+**Pilier formation le plus faible du haut de tableau (6,2).** L'offre locale, réelle, reste celle d'un pôle régional : les filières pointues se jouent ailleurs.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Le loyer moyen d'un studio s'établissait autour de 460 € entre mai 2024 et ma
 
 ## Leviers d'action
 
-1. <b>Présenter l'avantage du coût du logement.</b> Clermont est la vitrine du panel sur le coût de la vie : le documenter, le médiatiser, en faire un argument de recrutement académique francilien et lyonnais.
-2. <b>Structurer l'emploi autour des filières qui restent.</b> Ingénierie, agro, santé : le bassin absorbe déjà ces profils ; l'apprentissage et l'alternance avec Michelin, la recherche et la santé peuvent élargir l'absorption.
-3. <b>Ouvrir l'offre de formations.</b> Le pilier 6,2 est le chantier académique : plus de masters pointus et de filières spécialisées stabiliseraient la ville au top 10.
+1. **Présenter l'avantage du coût du logement.** Clermont est la vitrine du panel sur le coût de la vie : le documenter, le médiatiser, en faire un argument de recrutement académique francilien et lyonnais.
+2. **Structurer l'emploi autour des filières qui restent.** Ingénierie, agro, santé : le bassin absorbe déjà ces profils ; l'apprentissage et l'alternance avec Michelin, la recherche et la santé peuvent élargir l'absorption.
+3. **Ouvrir l'offre de formations.** Le pilier 6,2 est le chantier académique : plus de masters pointus et de filières spécialisées stabiliseraient la ville au top 10.
 
 ## Risque de pari
 

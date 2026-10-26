@@ -20,15 +20,15 @@ Reims occupe l'avant-dernière place du classement, devant Nice. 19e avec 43,4 p
 
 ## Forces data-driven
 
-<b>Un logement parmi les plus accessibles du panel.</b> Score logement de 92,5 (4e) : 2 838 €/m², taux d'effort de 35,5 %, et un marché où il est objectivement facile de se loger (logiscore A, top 10 des villes françaises selon L'Étudiant, [Reims Campus](https://www.reims-campus.fr/vie-etudiante/logement)). Le loyer médian mensuel d'un logement étudiant est de 449,81 € ([Reims Campus](https://www.reims-campus.fr/vie-etudiante/logement)).
+**Un logement parmi les plus accessibles du panel.** Score logement de 92,5 (4e) : 2 838 €/m², taux d'effort de 35,5 %, et un marché où il est objectivement facile de se loger (logiscore A, top 10 des villes françaises selon L'Étudiant, [Reims Campus](https://www.reims-campus.fr/vie-etudiante/logement)). Le loyer médian mensuel d'un logement étudiant est de 449,81 € ([Reims Campus](https://www.reims-campus.fr/vie-etudiante/logement)).
 
-<b>La proximité parisienne.</b> À 45 minutes de Paris, la ville capte une demande francilienne d'investisseurs et de familles ([Résidence Étudiante](https://www.residenceetudiante.fr/reims-51.html)), et peut jouer la même carte pour les étudiants.
+**La proximité parisienne.** À 45 minutes de Paris, la ville capte une demande francilienne d'investisseurs et de familles ([Résidence Étudiante](https://www.residenceetudiante.fr/reims-51.html)), et peut jouer la même carte pour les étudiants.
 
 ## Faiblesses
 
-<b>Le score emploi le plus faible du panel.</b> 16,5 % de chômage (+2,4 points), 20,2 % de cadres (19e), score de 24,3 : le bassin rémois, champagne, logistique, santé, présente des indicateurs d'emploi peu favorables, sans que ceux-ci permettent de mesurer les départs de diplômés. C'est la faiblesse dominante de la fiche.
+**Le score emploi le plus faible du panel.** 16,5 % de chômage (+2,4 points), 20,2 % de cadres (19e), score de 24,3 : le bassin rémois, champagne, logistique, santé, présente des indicateurs d'emploi peu favorables, sans que ceux-ci permettent de mesurer les départs de diplômés. C'est la faiblesse dominante de la fiche.
 
-<b>Le score formation le plus faible du panel.</b> Score de 2,8 : l'offre locale, autour de l'université de Reims et de Neoma, ne construit pas une masse ou une spécialisation compétitive.
+**Le score formation le plus faible du panel.** Score de 2,8 : l'offre locale, autour de l'université de Reims et de Neoma, ne construit pas une masse ou une spécialisation compétitive.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Reims se situe dans le top 10 des villes étudiantes où il est le plus facile d
 
 ## Leviers d'action
 
-1. <b>Traiter l'emploi comme le chantier unique.</b> Avec le pire score emploi du panel, l'insertion mérite une attention particulière : insertion locale des diplômés (logistique, champagne, santé numérique), attraction de fonctions cadres, liaison école-entreprise systématique.
-2. <b>Jouer la carte du Paris accessible.</b> À 45 minutes de la capitale et 35,5 % de taux d'effort, Reims peut capter les étudiants franciliens découragés par le logement parisien, un positionnement à activer académiquement.
-3. <b>Surveiller la tension locative émergente.</b> Le marché se tend (+12 % de demandeurs sur l'offre, [Résidence Étudiante](https://www.residenceetudiante.fr/reims-51.html)) : la fenêtre « logement facile » ne durera que si l'offre suit.
+1. **Traiter l'emploi comme le chantier unique.** Avec le pire score emploi du panel, l'insertion mérite une attention particulière : insertion locale des diplômés (logistique, champagne, santé numérique), attraction de fonctions cadres, liaison école-entreprise systématique.
+2. **Jouer la carte du Paris accessible.** À 45 minutes de la capitale et 35,5 % de taux d'effort, Reims peut capter les étudiants franciliens découragés par le logement parisien, un positionnement à activer académiquement.
+3. **Surveiller la tension locative émergente.** Le marché se tend (+12 % de demandeurs sur l'offre, [Résidence Étudiante](https://www.residenceetudiante.fr/reims-51.html)) : la fenêtre « logement facile » ne durera que si l'offre suit.
 
 ## Risque de pari
 

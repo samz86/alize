@@ -26,9 +26,9 @@ Le vrai arbitre, c'est l'emploi. C'est le point faible de ces villes : Poitiers 
 
 Comparer le seul prix au m² serait réducteur. Trois éléments composent le coût réel :
 
-1. <b>Le loyer</b> (via le taux d'effort) : Clermont-Ferrand (28,4 %), Nancy (31,5 %) et Poitiers (31,6 %) forment le trio le plus accessible.
-2. <b>Les jobs disponibles à côté des cours</b> : un marché local dynamique réduit le besoin de soutien familial. Là, Nancy (53,8) fait mieux que Poitiers et Caen.
-3. <b>Le transport</b> : nos données mesurent la commune, pas l'agglomération — les villes moyennes concentrent campus et logement dans un rayon cyclable, ce que nos indicateurs ne captent qu'imparfaitement.
+1. **Le loyer** (via le taux d'effort) : Clermont-Ferrand (28,4 %), Nancy (31,5 %) et Poitiers (31,6 %) forment le trio le plus accessible.
+2. **Les jobs disponibles à côté des cours** : un marché local dynamique réduit le besoin de soutien familial. Là, Nancy (53,8) fait mieux que Poitiers et Caen.
+3. **Le transport** : nos données mesurent la commune, pas l'agglomération — les villes moyennes concentrent campus et logement dans un rayon cyclable, ce que nos indicateurs ne captent qu'imparfaitement.
 
 Nancy illustre ce compromis : 1re du classement malgré un emploi moyen, parce que son logement (96,7, 2e) et sa démographie (81,7, 4e) compensent.
 

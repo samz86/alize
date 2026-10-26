@@ -20,15 +20,15 @@ Lille présente un profil contrasté : une démographie étudiante de premier pl
 
 ## Forces data-driven
 
-<b>Une démographie étudiante massive et une main-d'œuvre qualifiée.</b> 59 886 étudiants (6e du panel), 26,0 % de 15-24 ans (3e) et 35,8 % de cadres (4e) : Lille est la seule ville du milieu de tableau à aligner à la fois la masse étudiante et le profil socio-économique d'une métropole. Son écosystème, université de Lille, SKEMA, EDHEC, IESEG, en fait une destination majeure du nord de la France.
+**Une démographie étudiante massive et une main-d'œuvre qualifiée.** 59 886 étudiants (6e du panel), 26,0 % de 15-24 ans (3e) et 35,8 % de cadres (4e) : Lille est la seule ville du milieu de tableau à aligner à la fois la masse étudiante et le profil socio-économique d'une métropole. Son écosystème, université de Lille, SKEMA, EDHEC, IESEG, en fait une destination majeure du nord de la France.
 
-<b>Un budget qui reste sous les métropoles équivalentes.</b> Malgré la tension sur les petites surfaces, Lille reste moins chère que Paris, Lyon ou Bordeaux ([123 Loger](https://www.123loger.com/blog/cout-de-la-vie-a-lille-2026/)).
+**Un budget qui reste sous les métropoles équivalentes.** Malgré la tension sur les petites surfaces, Lille reste moins chère que Paris, Lyon ou Bordeaux ([123 Loger](https://www.123loger.com/blog/cout-de-la-vie-a-lille-2026/)).
 
 ## Faiblesses
 
-<b>Un chômage bien au-dessus de la moyenne des 20 villes.</b> À 15,7 % (+1,6 point), le taux de chômage lillois est le 17e du panel : la promesse d'emploi de la métropole ne profite pas uniformément, et le score emploi (43,4) en fait un point de vigilance dans l'analyse.
+**Un chômage bien au-dessus de la moyenne des 20 villes.** À 15,7 % (+1,6 point), le taux de chômage lillois est le 17e du panel : la promesse d'emploi de la métropole ne profite pas uniformément, et le score emploi (43,4) en fait un point de vigilance dans l'analyse.
 
-<b>Un logement qui renchérit.</b> 4 033 €/m² et un taux d'effort de 50,4 % : l'étudiant lillois passe la moitié de son budget au loyer, avec une demande locative soutenue qui tire le marché ([123 Loger](https://www.123loger.com/blog/cout-de-la-vie-a-lille-2026/)).
+**Un logement qui renchérit.** 4 033 €/m² et un taux d'effort de 50,4 % : l'étudiant lillois passe la moitié de son budget au loyer, avec une demande locative soutenue qui tire le marché ([123 Loger](https://www.123loger.com/blog/cout-de-la-vie-a-lille-2026/)).
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Plus de 70 000 étudiants à l'université de Lille, 251 000 dans les Hauts-de-F
 
 ## Leviers d'action
 
-1. <b>Freiner la tension locative étudiante.</b> La demande soutenue renchérit les petites surfaces : l'offre CROUS et intermédiaire est le levier pour tenir le taux d'effort sous la barre des 50 %.
-2. <b>Réduire le chômage des jeunes.</b> L'écart entre un bassin très diplômé (35,8 % de cadres) et un chômage à 15,7 % s'adresse : l'insertion locale des diplômés, l'apprentissage et les liens avec la logistique et le numérique du bassin.
-3. <b>Capitaliser sur le carrefour européen.</b> Bruxelles, Londres et Paris à moins de 1h30 de train : un argument de mobilité unique à intégrer dans le positionnement étudiant de la métropole.
+1. **Freiner la tension locative étudiante.** La demande soutenue renchérit les petites surfaces : l'offre CROUS et intermédiaire est le levier pour tenir le taux d'effort sous la barre des 50 %.
+2. **Réduire le chômage des jeunes.** L'écart entre un bassin très diplômé (35,8 % de cadres) et un chômage à 15,7 % s'adresse : l'insertion locale des diplômés, l'apprentissage et les liens avec la logistique et le numérique du bassin.
+3. **Capitaliser sur le carrefour européen.** Bruxelles, Londres et Paris à moins de 1h30 de train : un argument de mobilité unique à intégrer dans le positionnement étudiant de la métropole.
 
 ## Risque de pari
 

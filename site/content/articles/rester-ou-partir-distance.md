@@ -2,9 +2,9 @@
 
 ## Comment ça marche
 
-1. <b>Question 0</b> : le quiz demande la commune de domicile et la géolocalise via l'API Geo ([api.gouv.fr](http://api.gouv.fr), coordonnées officielles).
-2. <b>Distances géodésiques</b> : chaque ville du résultat affiche sa distance au domicile (formule haversine, rayon terrestre 6 371 km — une méthode standard et traçable).
-3. <b>Filtre conditionnel</b> : si la réponse est « rester proche », seules les villes à moins de 300 km sont classées ; si le rayon contient moins de trois villes du panel, il est complété par les meilleures villes hors rayon, explicitement marquées. Les autres priorités (« découvrir une nouvelle région », « peu importe ») n'activent aucun filtre : la distance reste affichée pour information.
+1. **Question 0** : le quiz demande la commune de domicile et la géolocalise via l'API Geo ([api.gouv.fr](http://api.gouv.fr), coordonnées officielles).
+2. **Distances géodésiques** : chaque ville du résultat affiche sa distance au domicile (formule haversine, rayon terrestre 6 371 km — une méthode standard et traçable).
+3. **Filtre conditionnel** : si la réponse est « rester proche », seules les villes à moins de 300 km sont classées ; si le rayon contient moins de trois villes du panel, il est complété par les meilleures villes hors rayon, explicitement marquées. Les autres priorités (« découvrir une nouvelle région », « peu importe ») n'activent aucun filtre : la distance reste affichée pour information.
 
 ## Exemple : un terminal d'Île-de-France qui veut rester proche
 

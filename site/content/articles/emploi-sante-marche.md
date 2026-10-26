@@ -25,10 +25,10 @@ Le score emploi ne récompense pas que les grandes villes : Nancy devance Toulou
 
 Trois limites explicites :
 
-1. <b>Le bassin, pas la filière.</b> Le taux de chômage global ne dit rien des débouchés d'une filière donnée : l'aéronautique toulousaine, l'industrie grenobloise ou la logistique rémoise créent des marchés très spécifiques.
-2. <b>La commune, pas l'agglomération.</b> Le découpage communal sous-estime certains bassins (Grenoble, Reims sont documentées comme telles dans leurs fiches).
-3. <b>Le chômage n'est pas la probabilité de trouver un job étudiant.</b> Un taux bas signale un marché tendu favorable au candidat, mais l'emploi étudiant dépend aussi de l'offre de services urbaine (commerce, restauration), que le pilier ne mesure pas.
-4. <b>Un chômage au sens du recensement.</b> Les taux RP (10 à 18 % selon les villes) sont nettement plus élevés que les taux publiés dans la presse (sens BIT, \~7 % pour Paris) : c'est un protocole comparable entre nos 20 villes, pas un chiffre de conjoncture. Un lycéen ne doit pas y lire « Paris est à 10,5 % de chômage » au sens des journaux.
+1. **Le bassin, pas la filière.** Le taux de chômage global ne dit rien des débouchés d'une filière donnée : l'aéronautique toulousaine, l'industrie grenobloise ou la logistique rémoise créent des marchés très spécifiques.
+2. **La commune, pas l'agglomération.** Le découpage communal sous-estime certains bassins (Grenoble, Reims sont documentées comme telles dans leurs fiches).
+3. **Le chômage n'est pas la probabilité de trouver un job étudiant.** Un taux bas signale un marché tendu favorable au candidat, mais l'emploi étudiant dépend aussi de l'offre de services urbaine (commerce, restauration), que le pilier ne mesure pas.
+4. **Un chômage au sens du recensement.** Les taux RP (10 à 18 % selon les villes) sont nettement plus élevés que les taux publiés dans la presse (sens BIT, \~7 % pour Paris) : c'est un protocole comparable entre nos 20 villes, pas un chiffre de conjoncture. Un lycéen ne doit pas y lire « Paris est à 10,5 % de chômage » au sens des journaux.
 
 ## Pour quel profil ?
 

@@ -20,15 +20,15 @@ La fiche Strasbourg comporte une limite importante : le prix immobilier alsacien
 
 ## Forces data-driven
 
-<b>Une masse étudiante de premier plan sous statut européen.</b> 65 468 étudiants (8e du panel), 22,3 % de densité (11e) : la ville accueille des établissements universitaires, son réseau de grandes écoles, EM Strasbourg, INSA, ENGEES, et une population internationale de fonctionnaires et d'étudiants unique en France.
+**Une masse étudiante de premier plan sous statut européen.** 65 468 étudiants (8e du panel), 22,3 % de densité (11e) : la ville accueille des établissements universitaires, son réseau de grandes écoles, EM Strasbourg, INSA, ENGEES, et une population internationale de fonctionnaires et d'étudiants unique en France.
 
-<b>Le statut de capitale européenne.</b> Parlement européen, institutions, coopérations transfrontalières : un profil urbain qui ne se retrouve nulle part ailleurs dans le panel, et qui diversifie les débouchés.
+**Le statut de capitale européenne.** Parlement européen, institutions, coopérations transfrontalières : un profil urbain qui ne se retrouve nulle part ailleurs dans le panel, et qui diversifie les débouchés.
 
 ## Faiblesses
 
-<b>Le prix immobilier inconnu du panel.</b> Le droit local alsacien-mosan exclut Strasbourg de la base DVF : son score logement repose sur une médiane imputée des autres villes. Une limite documentée de l'Atlas, et un chantier v2 (source alternative).
+**Le prix immobilier inconnu du panel.** Le droit local alsacien-mosan exclut Strasbourg de la base DVF : son score logement repose sur une médiane imputée des autres villes. Une limite documentée de l'Atlas, et un chantier v2 (source alternative).
 
-<b>Un chômage au-dessus de la moyenne.</b> À 15,5 % (+1,5 point), le marché de l'emploi local est dans la moitié basse du panel : le score emploi de 36,5 pèse sur le classement général.
+**Un chômage au-dessus de la moyenne.** À 15,5 % (+1,5 point), le marché de l'emploi local est dans la moitié basse du panel : le score emploi de 36,5 pèse sur le classement général.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ Le marché locatif s'anime tôt : dès juin-juillet, les logements commencent à
 
 ## Leviers d'action
 
-1. <b>Compléter la donnée prix.</b> Brancher une source alsacienne du prix immobilier (base locale ou CLAMEUR) est le correctif méthodo le plus attendu de l'Atlas ; le classement de Strasbourg en dépend directement.
-2. <b>Exploiter le levier européen.</b> Stages au Parlement, institutions transfrontalières, coopération Bâle-Karlsruhe : un débouché unique que le bassin peut relier aux filières droit, sciences politiques et affaires.
-3. <b>Consolider l'emploi local.</b> À 15,5 % de chômage, le bassin doit transformer sa masse de diplômés en insertion locale, notamment avec le numérique et la recherche de la métropole rhénane.
+1. **Compléter la donnée prix.** Brancher une source alsacienne du prix immobilier (base locale ou CLAMEUR) est le correctif méthodo le plus attendu de l'Atlas ; le classement de Strasbourg en dépend directement.
+2. **Exploiter le levier européen.** Stages au Parlement, institutions transfrontalières, coopération Bâle-Karlsruhe : un débouché unique que le bassin peut relier aux filières droit, sciences politiques et affaires.
+3. **Consolider l'emploi local.** À 15,5 % de chômage, le bassin doit transformer sa masse de diplômés en insertion locale, notamment avec le numérique et la recherche de la métropole rhénane.
 
 ## Risque de pari
 

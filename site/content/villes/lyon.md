@@ -20,17 +20,17 @@ Lyon obtient un bon classement malgré un logement coûteux. Deuxième ville ét
 
 ## Forces data-driven
 
-<b>Le meilleur marché de l'emploi du panel après Paris.</b> Chômage à 11,1 % (2e plus bas des 20, −2,9 points sous la moyenne, déclaration au recensement RP 2023), 38,9 % de cadres (2e), 25,8 % de professions intermédiaires (2e), 58,6 % de diplômés du supérieur (3e) : le tissu socio-économique lyonnais est celui d'une métropole de rang européen. Pour l'étudiant, cela veut dire stages, alternances et premier emploi à portée de métro, la seule grande ville du panel où le pilier emploi (78,9) rivalise avec celui de Paris (80).
+**Le meilleur marché de l'emploi du panel après Paris.** Chômage à 11,1 % (2e plus bas des 20, −2,9 points sous la moyenne, déclaration au recensement RP 2023), 38,9 % de cadres (2e), 25,8 % de professions intermédiaires (2e), 58,6 % de diplômés du supérieur (3e) : le tissu socio-économique lyonnais est celui d'une métropole de rang européen. Pour l'étudiant, cela veut dire stages, alternances et premier emploi à portée de métro, la seule grande ville du panel où le pilier emploi (78,9) rivalise avec celui de Paris (80).
 
-<b>Une masse critique unique hors capitale.</b> 132 700 étudiants dans la commune, 4,4 fois Poitiers, 1,8 fois Toulouse. Trois universités publiques, l'INSA, EM Lyon, une myriade de grandes écoles : cet écosystème crée un effet auto-entretenu, où chaque école attire des étudiants qui attirent des entreprises qui attirent des écoles.
+**Une masse critique unique hors capitale.** 132 700 étudiants dans la commune, 4,4 fois Poitiers, 1,8 fois Toulouse. Trois universités publiques, l'INSA, EM Lyon, une myriade de grandes écoles : cet écosystème crée un effet auto-entretenu, où chaque école attire des étudiants qui attirent des entreprises qui attirent des écoles.
 
-<b>Une population fortement diplômée.</b> Avec 58,6 % de diplômés du supérieur dans la population, Lyon offre un environnement intellectuel et un marché du travail où la qualification est monnaie courante, le prix du m² diplômé (prix ÷ part de diplômés, KPI éditorial du projet) reste certes élevé, mais ces indicateurs ne permettent pas de mesurer le rendement individuel d'un diplôme.
+**Une population fortement diplômée.** Avec 58,6 % de diplômés du supérieur dans la population, Lyon offre un environnement intellectuel et un marché du travail où la qualification est monnaie courante, le prix du m² diplômé (prix ÷ part de diplômés, KPI éditorial du projet) reste certes élevé, mais ces indicateurs ne permettent pas de mesurer le rendement individuel d'un diplôme.
 
 ## Faiblesses
 
-<b>Un coût du logement élevé.</b> 4 529 €/m² (4e plus cher des 20), taux d'effort de 56,6 % : l'étudiant lyonnais type donne plus de la moitié de son budget au loyer. Lyon gagne <i>malgré</i> son logement, portée par l'emploi, si le marché du travail lyonnais fléchissait, la ville glisserait mécaniquement vers le milieu de tableau. C'est une attractivité performante mais fragile dans sa structure.
+**Un coût du logement élevé.** 4 529 €/m² (4e plus cher des 20), taux d'effort de 56,6 % : l'étudiant lyonnais type donne plus de la moitié de son budget au loyer. Lyon gagne <i>malgré</i> son logement, portée par l'emploi, si le marché du travail lyonnais fléchissait, la ville glisserait mécaniquement vers le milieu de tableau. C'est une attractivité performante mais fragile dans sa structure.
 
-<b>Démographie en retrait (53,7).</b> Densité étudiante de 25,6 % (8e), part de 15-24 ans à 19,3 % (11e) : pour 519 127 habitants, Lyon n'est « étudiante dans la chair » qu'à mi-mesure. La ville attire des étudiants massivement, mais elle est davantage une métropole économique qui accueille des étudiants qu'une ville étudiante.
+**Démographie en retrait (53,7).** Densité étudiante de 25,6 % (8e), part de 15-24 ans à 19,3 % (11e) : pour 519 127 habitants, Lyon n'est « étudiante dans la chair » qu'à mi-mesure. La ville attire des étudiants massivement, mais elle est davantage une métropole économique qui accueille des étudiants qu'une ville étudiante.
 
 ## Contexte local
 
@@ -38,9 +38,9 @@ Lyon compte près de 180 000 étudiants dans la métropole en 2025-2026, toutes 
 
 ## Leviers d'action
 
-1. <b>Préserver l'encadrement des loyers.</b> Le débat métropolitain de fin 2026 est structurant pour l'attractivité étudiante : sa fin renchérirait directement le taux d'effort de 56,6 % et entamerait le seul capital que Lyon peut perdre sans que rien ne le compense. Pour une ville dont l'attractivité repose sur l'emploi et non sur le coût, le logement est la variable d'ajustement à protéger.
-2. <b>Développer l'offre intermédiaire.</b> Entre le CROUS (145-620 €/mois) et le parc libre à 500-700 € le studio, le « middle market » manque : résidences à loyers intermédiaires, colocations labellisées, logement solidaire à amplifier ([Lyon Campus](https://www.lyoncampus.com/je-trouve-un-logement)).
-3. <b>Le modèle Lyon comme leçon nationale.</b> Lyon prouve qu'une grande ville chère peut rester dans le top 3 si le marché de l'emploi est excellent, Bordeaux et Nice, qui échouent sur ce pilier, en sont le contre-exemple. À formuler comme tel dans l'article comparatif du site.
+1. **Préserver l'encadrement des loyers.** Le débat métropolitain de fin 2026 est structurant pour l'attractivité étudiante : sa fin renchérirait directement le taux d'effort de 56,6 % et entamerait le seul capital que Lyon peut perdre sans que rien ne le compense. Pour une ville dont l'attractivité repose sur l'emploi et non sur le coût, le logement est la variable d'ajustement à protéger.
+2. **Développer l'offre intermédiaire.** Entre le CROUS (145-620 €/mois) et le parc libre à 500-700 € le studio, le « middle market » manque : résidences à loyers intermédiaires, colocations labellisées, logement solidaire à amplifier ([Lyon Campus](https://www.lyoncampus.com/je-trouve-un-logement)).
+3. **Le modèle Lyon comme leçon nationale.** Lyon prouve qu'une grande ville chère peut rester dans le top 3 si le marché de l'emploi est excellent, Bordeaux et Nice, qui échouent sur ce pilier, en sont le contre-exemple. À formuler comme tel dans l'article comparatif du site.
 
 ## Risque de pari
 

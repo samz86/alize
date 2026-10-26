@@ -20,15 +20,15 @@ Bordeaux présente des écarts importants entre ses scores emploi, logement et d
 
 ## Forces data-driven
 
-<b>Le 4e marché de l'emploi du panel.</b> Chômage à 11,8 % (4e plus bas), 35,1 % de cadres, 58,0 % de diplômés du supérieur (4e) : le score emploi de 72,1 place Bordeaux juste derrière Aix (72,9) et devant Toulouse. Aéronautique, numérique, wine-tech, santé : les débouchés doivent être examinés selon le diplôme, sans déduire la rétention des seuls indicateurs généraux.
+**Le 4e marché de l'emploi du panel.** Chômage à 11,8 % (4e plus bas), 35,1 % de cadres, 58,0 % de diplômés du supérieur (4e) : le score emploi de 72,1 place Bordeaux juste derrière Aix (72,9) et devant Toulouse. Aéronautique, numérique, wine-tech, santé : les débouchés doivent être examinés selon le diplôme, sans déduire la rétention des seuls indicateurs généraux.
 
-<b>Une offre de formation de niveau national.</b> Score formation de 26,8 (7e), portée par l'université de Bordeaux, Sciences Po, Bordeaux INP et l'écosystème de grandes écoles.
+**Une offre de formation de niveau national.** Score formation de 26,8 (7e), portée par l'université de Bordeaux, Sciences Po, Bordeaux INP et l'écosystème de grandes écoles.
 
 ## Faiblesses
 
-<b>La démographie étudiante la plus diluée du panel avec Nantes et Nice.</b> 16,4 % de densité (18e), 19,7 % de 15-24 ans (12e) : la ville attire des jeunes actifs plus que des étudiants, et le score démographie (32,9) pèse sur le classement général.
+**La démographie étudiante la plus diluée du panel avec Nantes et Nice.** 16,4 % de densité (18e), 19,7 % de 15-24 ans (12e) : la ville attire des jeunes actifs plus que des étudiants, et le score démographie (32,9) pèse sur le classement général.
 
-<b>Un logement au tarif métropolitain.</b> 4 412 €/m² (5e), taux d'effort de 55,1 % : l'étudiant bordelais donne plus de la moitié de son budget au loyer, presque au niveau lyonnais.
+**Un logement au tarif métropolitain.** 4 412 €/m² (5e), taux d'effort de 55,1 % : l'étudiant bordelais donne plus de la moitié de son budget au loyer, presque au niveau lyonnais.
 
 ## Contexte local
 
@@ -36,9 +36,9 @@ En résidence privée, un studio bordelais coûte entre 600 et 850 € charges c
 
 ## Leviers d'action
 
-1. <b>Rééquilibrer logement étudiant.</b> L'écart entre CROUS (280-444 €) et privé (600-850 €) est le plus structurant du panel : l'offre intermédiaire à la Ecla Bordeaux (495 logements) est le modèle à multiplier.
-2. <b>Reconcentrer la vie étudiante.</b> Avec 16,4 % de densité, le campus n'est pas assez structurant : les pôles étudiants (Gradignan, centre) doivent devenir des quartiers de vie complète.
-3. <b>Convertir l'emploi en attractivité académique.</b> Le 4e score emploi du panel est un argument : le lier aux filières à forte insertion (alternance, apprentissage) pour attirer les étudiants qui font défaut à la démographie.
+1. **Rééquilibrer logement étudiant.** L'écart entre CROUS (280-444 €) et privé (600-850 €) est le plus structurant du panel : l'offre intermédiaire à la Ecla Bordeaux (495 logements) est le modèle à multiplier.
+2. **Reconcentrer la vie étudiante.** Avec 16,4 % de densité, le campus n'est pas assez structurant : les pôles étudiants (Gradignan, centre) doivent devenir des quartiers de vie complète.
+3. **Convertir l'emploi en attractivité académique.** Le 4e score emploi du panel est un argument : le lier aux filières à forte insertion (alternance, apprentissage) pour attirer les étudiants qui font défaut à la démographie.
 
 ## Risque de pari
 
