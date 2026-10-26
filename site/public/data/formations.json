@@ -1,0 +1,1858 @@
+{
+ "nancy": {
+  "nb_formations": 186,
+  "nb_etablissements": 40,
+  "familles_presentes": 20,
+  "part_apprentissage": 39.8,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 93
+   },
+   {
+    "famille": "Licence",
+    "nb": 36
+   },
+   {
+    "famille": "CPGE",
+    "nb": 13
+   },
+   {
+    "famille": "BUT",
+    "nb": 9
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 9
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 9
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 7
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 7
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 4
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 3
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 3
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 3
+   },
+   {
+    "famille": "DCG",
+    "nb": 2
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 2
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 2
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 1
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 1
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 1
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 1
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 1
+   }
+  ]
+ },
+ "rennes": {
+  "nb_formations": 273,
+  "nb_etablissements": 64,
+  "familles_presentes": 22,
+  "part_apprentissage": 30.0,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 111
+   },
+   {
+    "famille": "Licence",
+    "nb": 78
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 25
+   },
+   {
+    "famille": "CPGE",
+    "nb": 16
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 12
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 12
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 12
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 11
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 9
+   },
+   {
+    "famille": "BUT",
+    "nb": 6
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 5
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 4
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 4
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 4
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 3
+   },
+   {
+    "famille": "DCG",
+    "nb": 3
+   },
+   {
+    "famille": "DEUST",
+    "nb": 3
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 2
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 2
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 2
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 2
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 2
+   }
+  ]
+ },
+ "lyon": {
+  "nb_formations": 638,
+  "nb_etablissements": 139,
+  "familles_presentes": 24,
+  "part_apprentissage": 40.0,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 303
+   },
+   {
+    "famille": "Licence",
+    "nb": 129
+   },
+   {
+    "famille": "CPGE",
+    "nb": 55
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 51
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 36
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 22
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 21
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 21
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 20
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 20
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 19
+   },
+   {
+    "famille": "DCG",
+    "nb": 10
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 9
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 7
+   },
+   {
+    "famille": "BUT",
+    "nb": 5
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 5
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 5
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 5
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 2
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 2
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Licence professionnelle",
+    "nb": 1
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 1
+   }
+  ]
+ },
+ "poitiers": {
+  "nb_formations": 152,
+  "nb_etablissements": 28,
+  "familles_presentes": 19,
+  "part_apprentissage": 28.3,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 57
+   },
+   {
+    "famille": "Licence",
+    "nb": 50
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 17
+   },
+   {
+    "famille": "CPGE",
+    "nb": 10
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 8
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 7
+   },
+   {
+    "famille": "BUT",
+    "nb": 5
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 5
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 5
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 5
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 4
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 3
+   },
+   {
+    "famille": "DEUST",
+    "nb": 3
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 3
+   },
+   {
+    "famille": "DCG",
+    "nb": 1
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 1
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 1
+   }
+  ]
+ },
+ "caen": {
+  "nb_formations": 225,
+  "nb_etablissements": 34,
+  "familles_presentes": 19,
+  "part_apprentissage": 40.9,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 116
+   },
+   {
+    "famille": "Licence",
+    "nb": 60
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 13
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 12
+   },
+   {
+    "famille": "CPGE",
+    "nb": 9
+   },
+   {
+    "famille": "BUT",
+    "nb": 7
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 4
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 4
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 4
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 4
+   },
+   {
+    "famille": "DCG",
+    "nb": 3
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 2
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 2
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 1
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 1
+   }
+  ]
+ },
+ "toulouse": {
+  "nb_formations": 478,
+  "nb_etablissements": 97,
+  "familles_presentes": 26,
+  "part_apprentissage": 32.2,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 189
+   },
+   {
+    "famille": "Licence",
+    "nb": 144
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 39
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 35
+   },
+   {
+    "famille": "CPGE",
+    "nb": 25
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 25
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 25
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 18
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 17
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 13
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 13
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 12
+   },
+   {
+    "famille": "BUT",
+    "nb": 11
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 6
+   },
+   {
+    "famille": "DCG",
+    "nb": 4
+   },
+   {
+    "famille": "DEUST",
+    "nb": 3
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 3
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 3
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 3
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 2
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 2
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 2
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 2
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 1
+   },
+   {
+    "famille": "Formations des écoles vétérinaires",
+    "nb": 1
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 1
+   }
+  ]
+ },
+ "dijon": {
+  "nb_formations": 242,
+  "nb_etablissements": 43,
+  "familles_presentes": 23,
+  "part_apprentissage": 36.4,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 123
+   },
+   {
+    "famille": "Licence",
+    "nb": 57
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 25
+   },
+   {
+    "famille": "CPGE",
+    "nb": 16
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 11
+   },
+   {
+    "famille": "BUT",
+    "nb": 9
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 8
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 7
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 6
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 6
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 3
+   },
+   {
+    "famille": "DCG",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 2
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 2
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 2
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 2
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 1
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 1
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 1
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 1
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 1
+   }
+  ]
+ },
+ "aix-en-provence": {
+  "nb_formations": 264,
+  "nb_etablissements": 52,
+  "familles_presentes": 21,
+  "part_apprentissage": 40.9,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 109
+   },
+   {
+    "famille": "Licence",
+    "nb": 87
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 13
+   },
+   {
+    "famille": "CPGE",
+    "nb": 12
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 12
+   },
+   {
+    "famille": "BUT",
+    "nb": 11
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 9
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 8
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 8
+   },
+   {
+    "famille": "DCG",
+    "nb": 6
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 5
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 5
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 3
+   },
+   {
+    "famille": "DEUST",
+    "nb": 2
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 2
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 2
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 2
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 2
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 2
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   }
+  ]
+ },
+ "angers": {
+  "nb_formations": 245,
+  "nb_etablissements": 40,
+  "familles_presentes": 22,
+  "part_apprentissage": 34.3,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 95
+   },
+   {
+    "famille": "Licence",
+    "nb": 74
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 32
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 16
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 12
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 12
+   },
+   {
+    "famille": "BUT",
+    "nb": 8
+   },
+   {
+    "famille": "CPGE",
+    "nb": 8
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 7
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 5
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 5
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 5
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 4
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 4
+   },
+   {
+    "famille": "DCG",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 2
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 2
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 2
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 2
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 1
+   },
+   {
+    "famille": "Licence professionnelle",
+    "nb": 1
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 1
+   }
+  ]
+ },
+ "lille": {
+  "nb_formations": 327,
+  "nb_etablissements": 77,
+  "familles_presentes": 23,
+  "part_apprentissage": 37.0,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 157
+   },
+   {
+    "famille": "Licence",
+    "nb": 60
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 29
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 25
+   },
+   {
+    "famille": "CPGE",
+    "nb": 24
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 14
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 13
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 9
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 7
+   },
+   {
+    "famille": "DCG",
+    "nb": 5
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 5
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 4
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 3
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 3
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 3
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 2
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 2
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 1
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 1
+   }
+  ]
+ },
+ "nantes": {
+  "nb_formations": 314,
+  "nb_etablissements": 78,
+  "familles_presentes": 23,
+  "part_apprentissage": 38.5,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 174
+   },
+   {
+    "famille": "Licence",
+    "nb": 64
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 31
+   },
+   {
+    "famille": "CPGE",
+    "nb": 19
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 12
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 10
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 10
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 10
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 8
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 7
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 5
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 4
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 3
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 3
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 3
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 3
+   },
+   {
+    "famille": "BUT",
+    "nb": 2
+   },
+   {
+    "famille": "DCG",
+    "nb": 2
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 1
+   },
+   {
+    "famille": "Formations des écoles vétérinaires",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   }
+  ]
+ },
+ "tours": {
+  "nb_formations": 184,
+  "nb_etablissements": 36,
+  "familles_presentes": 20,
+  "part_apprentissage": 42.9,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 93
+   },
+   {
+    "famille": "Licence",
+    "nb": 48
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 11
+   },
+   {
+    "famille": "BUT",
+    "nb": 9
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 9
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 8
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 8
+   },
+   {
+    "famille": "CPGE",
+    "nb": 7
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 6
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 3
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 3
+   },
+   {
+    "famille": "DCG",
+    "nb": 2
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 2
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 2
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 1
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 1
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 1
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   }
+  ]
+ },
+ "montpellier": {
+  "nb_formations": 382,
+  "nb_etablissements": 71,
+  "familles_presentes": 23,
+  "part_apprentissage": 42.4,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 171
+   },
+   {
+    "famille": "Licence",
+    "nb": 90
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 29
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 19
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 16
+   },
+   {
+    "famille": "CPGE",
+    "nb": 15
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 12
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 12
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 11
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 11
+   },
+   {
+    "famille": "BUT",
+    "nb": 10
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 10
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 9
+   },
+   {
+    "famille": "DCG",
+    "nb": 4
+   },
+   {
+    "famille": "DEUST",
+    "nb": 4
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 4
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 3
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 2
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 2
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 2
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 1
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 1
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 1
+   }
+  ]
+ },
+ "bordeaux": {
+  "nb_formations": 294,
+  "nb_etablissements": 79,
+  "familles_presentes": 18,
+  "part_apprentissage": 54.4,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 166
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 24
+   },
+   {
+    "famille": "CPGE",
+    "nb": 23
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 21
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 17
+   },
+   {
+    "famille": "Licence",
+    "nb": 15
+   },
+   {
+    "famille": "BUT",
+    "nb": 11
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 9
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 9
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 6
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 6
+   },
+   {
+    "famille": "DCG",
+    "nb": 3
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 3
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 2
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 2
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 1
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   }
+  ]
+ },
+ "clermont-ferrand": {
+  "nb_formations": 190,
+  "nb_etablissements": 28,
+  "familles_presentes": 15,
+  "part_apprentissage": 38.4,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 93
+   },
+   {
+    "famille": "Licence",
+    "nb": 47
+   },
+   {
+    "famille": "CPGE",
+    "nb": 17
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 17
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 13
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 8
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 8
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 4
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 3
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 3
+   },
+   {
+    "famille": "DCG",
+    "nb": 2
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 2
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 2
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   }
+  ]
+ },
+ "grenoble": {
+  "nb_formations": 142,
+  "nb_etablissements": 27,
+  "familles_presentes": 18,
+  "part_apprentissage": 46.5,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 88
+   },
+   {
+    "famille": "BUT",
+    "nb": 14
+   },
+   {
+    "famille": "CPGE",
+    "nb": 12
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 8
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 5
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 4
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 4
+   },
+   {
+    "famille": "DCG",
+    "nb": 3
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 3
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 3
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 3
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 3
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 3
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 1
+   },
+   {
+    "famille": "Licence",
+    "nb": 1
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 1
+   }
+  ]
+ },
+ "strasbourg": {
+  "nb_formations": 289,
+  "nb_etablissements": 48,
+  "familles_presentes": 22,
+  "part_apprentissage": 32.5,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 118
+   },
+   {
+    "famille": "Licence",
+    "nb": 91
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 22
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 22
+   },
+   {
+    "famille": "CPGE",
+    "nb": 20
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 11
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 11
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 9
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 8
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 7
+   },
+   {
+    "famille": "DEUST",
+    "nb": 6
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 6
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 5
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 4
+   },
+   {
+    "famille": "DCG",
+    "nb": 4
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 3
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 3
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 3
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 2
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 2
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 1
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 1
+   }
+  ]
+ },
+ "paris": {
+  "nb_formations": 1584,
+  "nb_etablissements": 317,
+  "familles_presentes": 26,
+  "part_apprentissage": 32.6,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 606
+   },
+   {
+    "famille": "Licence",
+    "nb": 467
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 164
+   },
+   {
+    "famille": "CPGE",
+    "nb": 121
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 111
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 111
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 105
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 51
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 44
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 39
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 24
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 23
+   },
+   {
+    "famille": "DCG",
+    "nb": 21
+   },
+   {
+    "famille": "BUT",
+    "nb": 17
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 17
+   },
+   {
+    "famille": "Formations d'architecture",
+    "nb": 16
+   },
+   {
+    "famille": "du paysage et du patrimoine",
+    "nb": 16
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 12
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 9
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 8
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 4
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 4
+   },
+   {
+    "famille": "DEUST",
+    "nb": 2
+   },
+   {
+    "famille": "Licence professionnelle",
+    "nb": 2
+   },
+   {
+    "famille": "I.A.E - Instituts d'administration des entreprises",
+    "nb": 1
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 1
+   }
+  ]
+ },
+ "reims": {
+  "nb_formations": 232,
+  "nb_etablissements": 42,
+  "familles_presentes": 20,
+  "part_apprentissage": 42.7,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 118
+   },
+   {
+    "famille": "Licence",
+    "nb": 43
+   },
+   {
+    "famille": "CPGE",
+    "nb": 12
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 12
+   },
+   {
+    "famille": "BUT",
+    "nb": 10
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 10
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 10
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 9
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 9
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 8
+   },
+   {
+    "famille": "Sciences Po - Instituts d'études politiques",
+    "nb": 7
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 6
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 5
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 3
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 3
+   },
+   {
+    "famille": "C.M.I - Cursus Master en Ingénierie",
+    "nb": 2
+   },
+   {
+    "famille": "DCG",
+    "nb": 1
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   }
+  ]
+ },
+ "nice": {
+  "nb_formations": 290,
+  "nb_etablissements": 57,
+  "familles_presentes": 20,
+  "part_apprentissage": 52.4,
+  "familles": [
+   {
+    "famille": "BTS - BTSA - BTSM",
+    "nb": 164
+   },
+   {
+    "famille": "Licence",
+    "nb": 59
+   },
+   {
+    "famille": "Etudes de santé",
+    "nb": 22
+   },
+   {
+    "famille": "Licence sélective",
+    "nb": 14
+   },
+   {
+    "famille": "Formations des écoles de commerce et de management",
+    "nb": 10
+   },
+   {
+    "famille": "CPGE",
+    "nb": 9
+   },
+   {
+    "famille": "Formations diplômantes du travail social",
+    "nb": 8
+   },
+   {
+    "famille": "Formations d'art",
+    "nb": 7
+   },
+   {
+    "famille": "Formations professionnelles",
+    "nb": 7
+   },
+   {
+    "famille": "de design et du spectacle vivant",
+    "nb": 7
+   },
+   {
+    "famille": "BUT",
+    "nb": 6
+   },
+   {
+    "famille": "Certificats de spécialisation et FCIL",
+    "nb": 5
+   },
+   {
+    "famille": "Formations des écoles d'ingénieurs",
+    "nb": 5
+   },
+   {
+    "famille": "DCG",
+    "nb": 4
+   },
+   {
+    "famille": "Formations aux métiers de l'hôtellerie restauration",
+    "nb": 2
+   },
+   {
+    "famille": "Formations aux métiers du sport",
+    "nb": 2
+   },
+   {
+    "famille": "DEUST",
+    "nb": 1
+   },
+   {
+    "famille": "Diplômes d'université ou d'établissement",
+    "nb": 1
+   },
+   {
+    "famille": "Formations préparatoires à l'enseignement supérieur",
+    "nb": 1
+   },
+   {
+    "famille": "LPE - Licence Professorat des Ecoles",
+    "nb": 1
+   }
+  ]
+ }
+}

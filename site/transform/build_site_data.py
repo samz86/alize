@@ -3,18 +3,26 @@
 build_site_data.py — Alizé site : génération des données publiques.
 ======================================================================
 
-Génère public/data/cities.json (et meta.json) depuis les sorties de l'ETL :
+Génère public/data/cities.json, formations.json (et meta.json) depuis les
+sorties de l'ETL :
 
   - data/processed/villes_scoring.csv          (scores + indicateurs, obligatoire)
+  - data/processed/parcoursup_villes.csv      (offre de formations Parcoursup)
+  - data/processed/parcoursup_familles.csv    (détail ville x famille)
   - data/raw/ancrage_diplomes_villes.csv       (taux d'ancrage, arrivées — KPI signature)
   - data/raw/mobilites_scolaires_villes.csv    (ratio d'attractivité scolaire)
   - data/raw/detail_mobilites_villes.csv      (part des 18-24 accueillis)
   - site/content/villes/*.md                   (intro éditoriale + note de risque)
 
-Les CSV de data/raw sont optionnels : les champs absents restent à null et
-le site affiche « à venir » (aucun chiffre inventé, traçabilité conservée).
+Les CSV optionnels : les champs absents restent à null et le site affiche
+« à venir » (aucun chiffre inventé, traçabilité conservée).
 
-Usage (depuis la racine du dépôt edu-move) :
+Parcoursup : multi-étiquettes — une formation peut compter dans plusieurs
+familles (« Etudes de santé,Licence »). Le total par famille peut donc
+dépasser le nombre de formations de la ville. Session la plus récente
+(2026 au moment de l'écriture), voir src/extract/10_parcoursup.py.
+
+Usage (depuis la racine du dépôt) :
     python site/transform/build_site_data.py
 
 Contrôles de plausibilité en fin de script : nombre de villes, valeurs
@@ -115,6 +123,31 @@ def main():
             if pcol and pd.notna(r[pcol]):
                 detail[v] = round(float(r[pcol]), 1)
 
+    # --- formations Parcoursup (optionnel, data/processed) ---
+    parcoursup = {}
+    p = PROCESSED / "parcoursup_villes.csv"
+    if p.exists():
+        f = pd.read_csv(p)
+        f.columns = [c.strip() for c in f.columns]
+        for _, r in f.iterrows():
+            v = str(r["ville"]).strip()
+            parcoursup[v] = {
+                "nb_formations": int(r["nb_formations"]),
+                "nb_etablissements": int(r["nb_etablissements"]),
+                "familles_presentes": int(r["familles_presentes"]),
+                "part_apprentissage": round(float(r["part_apprentissage"]), 1) if pd.notna(r["part_apprentissage"]) else None,
+            }
+    p = PROCESSED / "parcoursup_familles.csv"
+    if p.exists():
+        pf = pd.read_csv(p)
+        pf.columns = [c.strip() for c in pf.columns]
+        for v, g in pf.groupby("ville"):
+            g = g.sort_values("nb_formations", ascending=False)
+            parcoursup.setdefault(str(v).strip(), {})["familles"] = [
+                {"famille": str(r["famille"]).strip(), "nb": int(r["nb_formations"])}
+                for _, r in g.iterrows()
+            ]
+
     def num(x, arr=1):
         if x is None or pd.isna(x):
             return None
@@ -158,12 +191,25 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "cities.json").write_text(json.dumps(villes, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    # --- formations Parcoursup -> public/data/formations.json (clé = slug) ---
+    formations = {}
+    for v in villes:
+        f = parcoursup.get(v["nom"])
+        if f:
+            formations[v["slug"]] = f
+    (OUT / "formations.json").write_text(json.dumps(formations, ensure_ascii=False, indent=1), encoding="utf-8")
+
     # --- contrôles de plausibilité ---
     print(f"cities.json : {len(villes)} villes.")
     n_ancrage = sum(1 for v in villes if v["taux_ancrage"] is not None)
     n_ratio = sum(1 for v in villes if v["ratio_attractivite"] is not None)
     n_risque = sum(1 for v in villes if v["risque"])
     print(f"  taux d'ancrage présents : {n_ancrage}/20 ; ratios scolaires : {n_ratio}/20 ; notes de risque : {n_risque}/20.")
+    print(f"formations.json : {len(formations)} villes (source Parcoursup, data/processed, multi-étiquettes documentées).")
+    if formations:
+        nf = {v["nom"]: f["nb_formations"] for v in villes for s, f in formations.items() if s == v["slug"]}
+        noms_tries = sorted(nf, key=nf.get, reverse=True)[:3]
+        print(f"  top 3 volumes : " + " ; ".join(f"{n} ({nf[n]:,})".replace(",", " ") for n in noms_tries) + ".")
     manq = [v["nom"] for v in villes if v["score_global"] is None]
     if manq:
         print(f"  [ATTENTION] score global manquant : {manq}")
