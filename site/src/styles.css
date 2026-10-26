@@ -23,7 +23,7 @@ main { flex: 1; width: min(1100px, 92vw); margin: 0 auto; padding: 1.5rem 0 4rem
 
 /* ---------- nav / footer ---------- */
 .nav { display: flex; align-items: center; gap: 1.2rem; width: min(1100px, 94vw); margin: 0 auto; padding: 0.9rem 0; }
-.brand { font-family: var(--serif); font-weight: 900; font-size: 1.4rem; text-decoration: none; }
+.brand { font-family: var(--serif); font-weight: 900; font-size: 1.8rem; text-decoration: none; text-transform: uppercase; letter-spacing: 0.02em; }
 .brand span { color: var(--corail); }
 .nav-links { display: flex; gap: 1rem; flex-wrap: wrap; margin-left: auto; }
 .nav-links a { text-decoration: none; font-weight: 500; color: var(--ink-soft); padding: 0.3rem 0.1rem; border-bottom: 2px solid transparent; }
