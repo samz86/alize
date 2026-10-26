@@ -1,0 +1,32 @@
+{
+ "data_date": "2026-10-17",
+ "sources": [
+  "Effectifs étudiants : MESR/SIES (rentrée 2025-26)",
+  "Population, âge, diplômes, PCS, chômage : INSEE, recensement 2023 (API MELODI)",
+  "Prix immobilier : DVF DGFiP 2025 (médiane appartements)",
+  "Géographie : API Géo (gouv.fr)",
+  "Flux scolaires : INSEE, Mobilités scolaires 2023",
+  "Migrations diplômés : INSEE, Migrations résidentielles 2023"
+ ],
+ "poids": {
+  "logement": 0.3,
+  "emploi": 0.25,
+  "demographie": 0.25,
+  "formation": 0.2
+ },
+ "note_scoring": "Score = somme pondérée de 4 piliers (min-max 0-100 sur le panel des 20 villes). Détail dans La démarche.",
+ "finding_hero": {
+  "aix_ratio": 0.82,
+  "aix_ancrage": 78.2,
+  "aix_arrivees": 21.8,
+  "strasbourg_ancrage": 85.5,
+  "strasbourg_arrivees": 14.5,
+  "paris_flux_max": "Lyon → Paris : 1 096"
+ },
+ "limites": [
+  "Découpage communal : Paris et Lyon sommées par arrondissements, Grenoble sous-estimée (campus à Saint-Martin-d'Hères).",
+  "Strasbourg : prix DVF indisponible (droit local Alsace-Moselle), imputé à la médiane du panel pour le score uniquement.",
+  "Chômage RP (déclaratif, recensement) > taux BIT : lu en relatif entre villes.",
+  "Mobilité : résidence antérieure = 1 an avant l'enquête ; diplômés 20-29 ans en emploi ; flux < 200 individus = ordres de grandeur."
+ ]
+}
