@@ -55,8 +55,8 @@ export default function App() {
             <p className="footer-brand">Alizé — Atlas de l'attractivité étudiante</p>
             <p className="footer-note">
               {tr(lang, "footer_github")} :{" "}
-              <a href="https://github.com/samz86/edu-move" target="_blank" rel="noreferrer">
-                github.com/samz86/edu-move
+              <a href="https://github.com/samz86/alize" target="_blank" rel="noreferrer">
+                github.com/samz86/alize
               </a>
             </p>
             <p className="footer-note">
