@@ -1,4 +1,4 @@
-# EduMove — site public (Vite + React)
+# Alizé — site public (Vite + React)
 
 Site vitrine de l'Atlas de l'attractivité étudiante : observatoire data + webzine sur la mobilité étudiante. Portage du prototype validé (canvas v2), repositionné sur le finding signature mobilité (« où reste-t-on après avoir étudié ? »).
 

@@ -25,7 +25,7 @@ export default function App() {
       <div className="app">
         <header className="nav">
           <NavLink to="/" className="brand">
-            Edu<span>Move</span>
+            Ali<span>zé</span>
           </NavLink>
           <nav className="nav-links">
             {nav.map(([to, key]) => (
@@ -52,7 +52,7 @@ export default function App() {
         </main>
         <footer className="footer">
           <div>
-            <p className="footer-brand">EduMove — Atlas de l'attractivité étudiante</p>
+            <p className="footer-brand">Alizé — Atlas de l'attractivité étudiante</p>
             <p className="footer-note">
               {tr(lang, "footer_github")} :{" "}
               <a href="https://github.com/samz86/edu-move" target="_blank" rel="noreferrer">

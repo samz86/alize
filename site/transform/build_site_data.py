@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-build_site_data.py — EduMove site : génération des données publiques.
+build_site_data.py — Alizé site : génération des données publiques.
 ======================================================================
 
 Génère public/data/cities.json (et meta.json) depuis les sorties de l'ETL :
