@@ -53,4 +53,4 @@ Un prix élevé signale souvent une ville demandée (Aix, Nice) — l'inverse d'
 
 Découpage communal, millésimes différents (MESR, INSEE MELODI RP 2023, DVF 2025), estimation du loyer conventionnelle : le pilier logement est le plus sensible de nos quatre mesures, et nous le documentons comme tel.
 
-<i>Le budget est la première question de pondération du quiz, juste après le domicile. Lance-le avec le poids logement au maximum : le classement bascule vers Nancy, Poitiers et Clermont-Ferrand.</i>
+*Le budget est la première question de pondération du quiz, juste après le domicile. Lance-le avec le poids logement au maximum : le classement bascule vers Nancy, Poitiers et Clermont-Ferrand.*

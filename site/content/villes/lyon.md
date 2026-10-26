@@ -28,7 +28,7 @@ Lyon obtient un bon classement malgré un logement coûteux. Deuxième ville ét
 
 ## Faiblesses
 
-**Un coût du logement élevé.** 4 529 €/m² (4e plus cher des 20), taux d'effort de 56,6 % : l'étudiant lyonnais type donne plus de la moitié de son budget au loyer. Lyon gagne <i>malgré</i> son logement, portée par l'emploi, si le marché du travail lyonnais fléchissait, la ville glisserait mécaniquement vers le milieu de tableau. C'est une attractivité performante mais fragile dans sa structure.
+**Un coût du logement élevé.** 4 529 €/m² (4e plus cher des 20), taux d'effort de 56,6 % : l'étudiant lyonnais type donne plus de la moitié de son budget au loyer. Lyon gagne *malgré* son logement, portée par l'emploi, si le marché du travail lyonnais fléchissait, la ville glisserait mécaniquement vers le milieu de tableau. C'est une attractivité performante mais fragile dans sa structure.
 
 **Démographie en retrait (53,7).** Densité étudiante de 25,6 % (8e), part de 15-24 ans à 19,3 % (11e) : pour 519 127 habitants, Lyon n'est « étudiante dans la chair » qu'à mi-mesure. La ville attire des étudiants massivement, mais elle est davantage une métropole économique qui accueille des étudiants qu'une ville étudiante.
 

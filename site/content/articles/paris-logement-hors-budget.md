@@ -33,4 +33,4 @@ Pour l'étudiant qui obtient une place en résidence CROUS, un logement familial
 
 Scores issus du pipeline de l'atlas : effectifs et offre de formation (MESR), indicateurs emploi et démographie (INSEE, MELODI RP 2023), prix médian des appartements (DVF 2025). Pondération de départ 30/25/25/20. Photographie comparée : les millésimes diffèrent selon les sources.
 
-<i>Envie de voir si ce verdict change selon tes priorités ? Lance le quiz — pondère la formation et l'emploi au maximum et regarde si Paris remonte dans le classement.</i>
+*Envie de voir si ce verdict change selon tes priorités ? Lance le quiz — pondère la formation et l'emploi au maximum et regarde si Paris remonte dans le classement.*

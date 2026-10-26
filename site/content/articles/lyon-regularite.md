@@ -32,4 +32,4 @@ Le point de vigilance est clair : 4 529 €/m² (17e rang sur le coût) et un ta
 
 Le classement mesure la commune de Lyon ; l'agglomération (Villeurbanne en tête) concentre une partie des campus et de l'offre étudiante. Les millésimes des sources diffèrent (MESR, INSEE MELODI RP 2023, DVF 2025). Le pilier emploi mesure le bassin, pas l'insertion par filière.
 
-<i>Le profil « grande ville + travail + budget tranquille » du quiz correspond exactement au cas lyonnais : teste-le et compare avec Nancy et Toulouse.</i>
+*Le profil « grande ville + travail + budget tranquille » du quiz correspond exactement au cas lyonnais : teste-le et compare avec Nancy et Toulouse.*

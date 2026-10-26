@@ -36,4 +36,4 @@ Nancy illustre ce compromis : 1re du classement malgré un emploi moyen, parce q
 
 Le découpage communal pénalise certaines villes (Grenoble en est l'exemple le plus net) et les millésimes des sources diffèrent (MESR, INSEE MELODI RP 2023, DVF 2025). Le classement est une photographie comparée, pas un verdict définitif — et le pilier emploi mesure un bassin, pas l'insertion réelle des diplômés d'une filière donnée.
 
-<i>Le budget, c'est la première question de pondération du quiz, juste après le domicile (question 0). Lance-le pour voir quelles villes sortent quand le logement pèse le plus.</i>
+*Le budget, c'est la première question de pondération du quiz, juste après le domicile (question 0). Lance-le pour voir quelles villes sortent quand le logement pèse le plus.*

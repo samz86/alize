@@ -48,6 +48,18 @@ const DICT = {
     rang_kpi: "Rang",
     villes: "villes",
     download_csv: "Télécharger les données (CSV)",
+    formations_titre: "Formations proposées (Parcoursup 2026)",
+    formations_kpi: "Formations Parcoursup",
+    formations_etabs: "Établissements",
+    formations_familles: "Familles de formation",
+    formations_apprentissage: "Part en apprentissage",
+    parcoursup_note:
+      "Source : cartographie des formations Parcoursup (open data MESR), session 2026. Multi-étiquettes : une formation peut compter dans plusieurs familles.",
+    quiz_filiere_q: "8. Quelle formation cherches-tu ?",
+    quiz_filiere_note:
+      "Si tu choisis un type de formation, les villes disposant de la plus grosse offre Parcoursup dans cette famille sont avantagées (bonus maximal 15 points).",
+    quiz_filiere_passer: "Peu importe / je ne sais pas encore",
+    quiz_filiere_bonus: "Bonus offre de formation appliqué",
   },
   en: {
     nav_accueil: "Home",
@@ -97,6 +109,18 @@ const DICT = {
     rang_kpi: "Rank",
     villes: "cities",
     download_csv: "Download the data (CSV)",
+    formations_titre: "Offered programmes (Parcoursup 2026)",
+    formations_kpi: "Parcoursup programmes",
+    formations_etabs: "Institutions",
+    formations_familles: "Programme families",
+    formations_apprentissage: "Apprenticeship share",
+    parcoursup_note:
+      "Source: Parcoursup programme catalogue (MESR open data), 2026 session. Multi-label: a programme can count in several families.",
+    quiz_filiere_q: "8. Which programme are you looking for?",
+    quiz_filiere_note:
+      "If you pick a programme type, cities with the largest Parcoursup offer in that family get a boost (maximum 15 points).",
+    quiz_filiere_passer: "Doesn't matter / I don't know yet",
+    quiz_filiere_bonus: "Programme-offer bonus applied",
   },
 };
 

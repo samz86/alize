@@ -8,7 +8,8 @@ import { PillarCard, Radar, DistBars, Kpi } from "../components/bits.jsx";
 import { scoreColor } from "../lib/scoring.js";
 
 // Page ville : dashboard (score, piliers, radar vs panel, distributions,
-// voisines) + fiche intégrale (contenu éditorial sourcé) dessous.
+// formations Parcoursup, voisines) + fiche intégrale (contenu éditorial
+// sourcé) dessous.
 export default function Ville() {
   const { slug } = useParams();
   const { lang } = useLang();
@@ -16,10 +17,11 @@ export default function Ville() {
   useEffect(() => { getData().then(setData); }, []);
   if (!data) return <p className="loading">Chargement…</p>;
 
-  const { cities, panel } = data;
+  const { cities, panel, formations } = data;
   const c = cities.find((x) => x.slug === slug);
   if (!c) return <p className="loading">Ville introuvable.</p>;
   const fiche = ficheVille(slug);
+  const f = formations && formations[slug];
   const idx = cities.findIndex((x) => x.slug === slug);
   const voisines = [cities[idx - 1], cities[idx + 1]].filter(Boolean);
 
@@ -77,6 +79,32 @@ export default function Ville() {
           <h3>{tr(lang, "score")} — distribution des {cities.length} villes</h3>
           <DistBars cities={cities} valueKey="score_global" activeSlug={slug} fmt={(v) => fmtNum(v)} />
         </div>
+      </section>
+
+      <section className="formations">
+        <h3>{tr(lang, "formations_titre")}</h3>
+        {f ? (
+          <>
+            <div className="kpis">
+              <Kpi label={tr(lang, "formations_kpi")} value={fmtInt(f.nb_formations)} />
+              <Kpi label={tr(lang, "formations_etabs")} value={fmtInt(f.nb_etablissements)} />
+              <Kpi label={tr(lang, "formations_familles")} value={fmtInt(f.familles_presentes)} />
+              <Kpi label={tr(lang, "formations_apprentissage")} value={f.part_apprentissage != null ? fmtNum(f.part_apprentissage) + " %" : "n.d."} />
+            </div>
+            {Array.isArray(f.familles) && f.familles.length > 0 && (
+              <div className="fam-chips">
+                {f.familles.slice(0, 10).map((x) => (
+                  <span key={x.famille} className="chip">
+                    {x.famille} <b>{x.nb}</b>
+                  </span>
+                ))}
+              </div>
+            )}
+            <p className="dash-note">{tr(lang, "parcoursup_note")}</p>
+          </>
+        ) : (
+          <p className="dash-note">À venir.</p>
+        )}
       </section>
 
       <section className="voisines">

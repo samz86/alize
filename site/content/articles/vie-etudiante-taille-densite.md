@@ -29,4 +29,4 @@ C'est un arbitrage, pas une hiérarchie — et c'est exactement ce que le quiz d
 
 La densité est mesurée à la commune : Grenoble (10,6 %) est un artefact du découpage communal (campus hors ville), documenté dans sa fiche — l'aire grenobloise est très étudiante alors que la commune dilue ses 16 588 étudiants observés. Les millésimes diffèrent (MESR, INSEE MELODI RP 2023). Enfin, la part des 15-24 ans n'est pas uniquement étudiante (apprentis, jeunes actifs).
 
-<i>Grande ville ou cocon étudiant : c'est le cœur du quiz. Lance-le et regarde la bascule du classement entre Poitiers/Caen et Lyon/Toulouse.</i>
+*Grande ville ou cocon étudiant : c'est le cœur du quiz. Lance-le et regarde la bascule du classement entre Poitiers/Caen et Lyon/Toulouse.*

@@ -207,3 +207,7 @@ main { flex: 1; width: min(1100px, 92vw); margin: 0 auto; padding: 1.5rem 0 4rem
 .demarche section { max-width: 50rem; margin: 1.8rem 0; }
 .demarche ul { padding-left: 1.2rem; }
 .sources li { margin: 0.3rem 0; }
+/* Formations Parcoursup (fiches villes) */
+.fam-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0; }
+.fam-chips .chip { background: #eef2f7; border: 1px solid #d8e0ea; border-radius: 999px; padding: 4px 12px; font-size: 0.85rem; }
+.fam-chips .chip b { margin-left: 6px; color: #1f3a5f; }

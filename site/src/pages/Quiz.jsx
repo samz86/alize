@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { getData } from "../lib/data.js";
+import { getData, nbFormationsFamille } from "../lib/data.js";
 import { tr, fmtNum } from "../lib/i18n.js";
 import { useLang } from "../App.jsx";
 import { scoreAvecPoids, haversine } from "../lib/scoring.js";
@@ -9,10 +9,13 @@ import { scoreAvecPoids, haversine } from "../lib/scoring.js";
 // Quiz « Quelle ville est faite pour toi ? » — portage fidèle de
 // transform/quiz.py (question 0 commune via API Géo + 7 questions A/B/C,
 // ajustements de poids sur la base 30/25/25/20, filtre 300 km si « rester
-// proche », transparence totale sur la pondération).
+// proche », transparence totale sur la pondération) + question 8 « quelle
+// formation cherches-tu ? » : bonus proportionnel à l'offre Parcoursup
+// 2026 de la famille choisie (max +15 points), calculé sur formations.json.
 // ---------------------------------------------------------------------
 
 const W_BASE = { logement: 30, emploi: 25, demographie: 25, formation: 20 };
+const BONUS_FILIERE_MAX = 15;
 
 const QUESTIONS = [
   {
@@ -80,6 +83,16 @@ const QUESTIONS = [
   },
 ];
 
+// Question 8 — familles Parcoursup (libellés exacts de la source,
+// multi-étiquettes gérées côté ETL ; voir src/extract/10_parcoursup.py).
+const FILIERES = [
+  ["A", "Une licence générale", ["Licence", "Licence sélective", "Licence professionnelle", "LPE - Licence Professorat des Ecoles"]],
+  ["B", "Un BTS ou un BUT : court et appliqué", ["BTS - BTSA - BTSM", "BUT", "DEUST"]],
+  ["C", "Une école d'ingénieurs", ["Formations des écoles d'ingénieurs", "C.MI - Cursus Master en Ingénierie"]],
+  ["D", "Commerce, gestion, management", ["Formations des écoles de commerce et de management", "I.A.E - Instituts d'administration des entreprises", "DCG", "Sciences Po - Instituts d'études politiques"]],
+  ["E", "Santé : médecine ou paramédical", ["Etudes de santé"]],
+];
+
 async function geolocaliser(nom) {
   // API Géo (api.gouv.fr, sans clé) — jamais bloquante : si injoignable,
   // le quiz continue sans filtre de proximité.
@@ -98,7 +111,7 @@ async function geolocaliser(nom) {
 export default function Quiz() {
   const { lang } = useLang();
   const [data, setData] = useState(null);
-  const [step, setStep] = useState(0); // 0 = commune, 1..7 = questions, 8 = résultat
+  const [step, setStep] = useState(0); // 0 = commune, 1..7 = poids, 8 = filière, 9 = résultat
   const [commune, setCommune] = useState("");
   const [geo, setGeo] = useState(null);
   const [geoNote, setGeoNote] = useState("");
@@ -114,34 +127,60 @@ export default function Quiz() {
     setStep(1);
   }
 
+  function calculerResultat(r) {
+    // Pondération des piliers (questions 1 à 7)
+    const w = { ...W_BASE };
+    let ajouts = 0;
+    for (const q of QUESTIONS) {
+      const l = r[q.cle];
+      if (l && q.choix[l]) {
+        for (const [p, pts] of Object.entries(q.choix[l][1])) {
+          w[p] += pts;
+          ajouts += pts;
+        }
+      }
+    }
+    const total = Object.values(w).reduce((a, b) => a + b, 0);
+    const poids = Object.fromEntries(Object.entries(w).map(([k, v]) => [k, v / total]));
+
+    // Bonus filière (question 8) : proportionnel au volume Parcoursup 2026
+    // de la famille choisie, normalisé sur le maximum du panel.
+    let famillesCible = null;
+    let bonusMax = 0;
+    let bonusActif = false;
+    if (r.filiere) {
+      const f = FILIERES.find(([l]) => l === r.filiere);
+      if (f) {
+        famillesCible = f[2];
+        const vols = data.cities.map((c) => nbFormationsFamille(data.formations, c.slug, famillesCible));
+        bonusMax = Math.max(...vols, 1);
+        bonusActif = vols.some((v) => v > 0);
+      }
+    }
+    const scored = data.cities
+      .map((c) => ({
+        ...c,
+        score_quiz:
+          scoreAvecPoids(c, { logement: w.logement, emploi: w.emploi, demographie: w.demographie, formation: w.formation }) +
+          (famillesCible ? (BONUS_FILIERE_MAX * nbFormationsFamille(data.formations, c.slug, famillesCible)) / bonusMax : 0),
+      }))
+      .sort((a, b) => b.score_quiz - a.score_quiz);
+    let top = scored;
+    let filtre = false;
+    if (geo && r.region === "B") {
+      const dans = scored.filter((c) => haversine(geo.lat, geo.lon, c.lat, c.lon) <= 300);
+      if (dans.length >= 3) { top = dans; filtre = true; }
+    }
+    setResult({ poids, w, ajouts, top: top.slice(0, 5), bottom: [...top].slice(-3), filtre, geo, bonusActif: bonusActif && !!r.filiere });
+  }
+
   function repondre(cle, lettre) {
     const r = { ...rep, [cle]: lettre };
     setRep(r);
-    if (step === 7) {
-      // calcule le résultat
-      const w = { ...W_BASE };
-      let ajouts = 0;
-      for (const q of QUESTIONS) {
-        const l = r[q.cle];
-        if (l && q.choix[l]) {
-          for (const [p, pts] of Object.entries(q.choix[l][1])) {
-            w[p] += pts;
-            ajouts += pts;
-          }
-        }
-      }
-      const total = Object.values(w).reduce((a, b) => a + b, 0);
-      const poids = Object.fromEntries(Object.entries(w).map(([k, v]) => [k, v / total]));
-      const scored = data.cities
-        .map((c) => ({ ...c, score_quiz: scoreAvecPoids(c, { logement: w.logement, emploi: w.emploi, demographie: w.demographie, formation: w.formation }) }))
-        .sort((a, b) => b.score_quiz - a.score_quiz);
-      let top = scored;
-      let filtre = false;
-      if (geo && r.region === "B") {
-        const dans = scored.filter((c) => haversine(geo.lat, geo.lon, c.lat, c.lon) <= 300);
-        if (dans.length >= 3) { top = dans; filtre = true; }
-      }
-      setResult({ poids, w, ajouts, top: top.slice(0, 5), bottom: [...top].slice(-3), filtre, geo });
+    if (step === 8) {
+      calculerResultat(r);
+      setStep(9);
+      return;
     }
     setStep(step + 1);
   }
@@ -153,8 +192,8 @@ export default function Quiz() {
       <div className="page quiz">
         <h1>{tr(lang, "nav_quiz")}</h1>
         <p className="page-sub">
-          8 étapes, aucune bonne réponse : seulement tes priorités. Chaque réponse ajuste la pondération
-          des 4 piliers (départ 30/25/25/20).
+          9 étapes, aucune bonne réponse : seulement tes priorités. Chaque réponse ajuste la pondération
+          des 4 piliers (départ 30/25/25/20), et ta formation visée ajoute un bonus d'offre Parcoursup.
         </p>
         <div className="quiz-box">
           <h3>0. Ta commune de départ ?</h3>
@@ -182,6 +221,7 @@ export default function Quiz() {
           {QUESTIONS.map((_, i) => (
             <span key={i} className={i < step ? "dot on" : "dot"} />
           ))}
+          <span className={7 < step ? "dot on" : "dot"} />
         </div>
         <div className="quiz-box">
           <h3>{q.q}</h3>
@@ -198,7 +238,35 @@ export default function Quiz() {
     );
   }
 
-  const { poids, w, top, bottom, filtre } = result;
+  if (step === 8) {
+    return (
+      <div className="page quiz">
+        <h1>{tr(lang, "nav_quiz")}</h1>
+        <div className="quiz-progress">
+          {QUESTIONS.map((_, i) => (
+            <span key={i} className={i < step ? "dot on" : "dot"} />
+          ))}
+          <span className="dot on" />
+        </div>
+        <div className="quiz-box">
+          <h3>{tr(lang, "quiz_filiere_q")}</h3>
+          <p className="quiz-note">{tr(lang, "quiz_filiere_note")}</p>
+          <div className="quiz-choix">
+            {FILIERES.map(([l, txt]) => (
+              <button key={l} className="choix" onClick={() => repondre("filiere", l)}>
+                <b>{l}.</b> {txt}
+              </button>
+            ))}
+          </div>
+          <button className="btn small ghost" onClick={() => repondre("filiere", null)}>
+            {tr(lang, "quiz_filiere_passer")}
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  const { poids, w, top, bottom, filtre, bonusActif } = result;
   return (
     <div className="page quiz">
       <h1>Tes villes, selon tes priorités</h1>
@@ -212,7 +280,8 @@ export default function Quiz() {
               <span className="defaut">(défaut {Math.round((W_BASE[k] / 100) * 100)} %)</span>
             </p>
           ))}
-          <p className="quiz-note">Méthode : piliers min-max 0-100 (INSEE RP 2023, MESR 2025-26, DVF 2025), pondération de départ 30/25/25/20 ajustée par tes réponses.</p>
+          {bonusActif && <p className="quiz-note">{tr(lang, "quiz_filiere_bonus")} (max +{BONUS_FILIERE_MAX}).</p>}
+          <p className="quiz-note">Méthode : piliers min-max 0-100 (INSEE RP 2023, MESR 2025-26, DVF 2025), pondération de départ 30/25/25/20 ajustée par tes réponses ; le bonus filière est proportionnel à l'offre Parcoursup 2026 de la famille choisie.</p>
         </div>
         <ol className="quiz-top">
           {top.map((c, i) => (

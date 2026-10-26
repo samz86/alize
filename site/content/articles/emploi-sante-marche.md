@@ -34,4 +34,4 @@ Trois limites explicites :
 
 Le quiz valorise l'emploi quand l'étudiant répond « trouver un job ou une alternance, très important » ou « rester travailler dans ma ville d'études ». Dans ce cas, Lyon, Paris et Aix remontent, Poitiers et Clermont descendent — mais le budget reste le contrepoint : Aix cumule le 3e score emploi et le plus fort taux d'effort du top 10 (61,5 %).
 
-<i>Lance le quiz en déclarant l'emploi prioritaire : regarde combien de places gagne Lyon, et ce que ça te coûte sur le pilier logement.</i>
+*Lance le quiz en déclarant l'emploi prioritaire : regarde combien de places gagne Lyon, et ce que ça te coûte sur le pilier logement.*

@@ -31,4 +31,4 @@ Les tests du quiz illustrent le trade-off : depuis un domicile de Seine-et-Marne
 
 Le rayon de 300 km est un choix arbitré, documenté comme tel : il ne garantit ni un temps de trajet (une ville à 250 km mal desservie peut être moins « proche » qu'une ville TGV à 400 km) ni une fréquence de retour réaliste. La distance est géodésique « à vol d'oiseau », pas routière ou ferroviaire. Enfin, le filtre ne s'applique qu'aux 20 villes du panel — un rayon peut contenir des villes universitaires non mesurées par l'atlas.
 
-<i>Teste ton propre cas : lance le quiz, entre ta commune à la question 0, et regarde comment ton rayon redessine le classement.</i>
+*Teste ton propre cas : lance le quiz, entre ta commune à la question 0, et regarde comment ton rayon redessine le classement.*
