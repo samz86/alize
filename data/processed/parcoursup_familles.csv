@@ -1,0 +1,425 @@
+ville,famille,nb_formations
+Aix-en-Provence,BTS - BTSA - BTSM,109
+Aix-en-Provence,Licence,87
+Aix-en-Provence,Formations des écoles d'ingénieurs,13
+Aix-en-Provence,CPGE,12
+Aix-en-Provence,Etudes de santé,12
+Aix-en-Provence,BUT,11
+Aix-en-Provence,Licence sélective,9
+Aix-en-Provence,Formations d'art,8
+Aix-en-Provence,de design et du spectacle vivant,8
+Aix-en-Provence,DCG,6
+Aix-en-Provence,Formations aux métiers du sport,5
+Aix-en-Provence,Formations professionnelles,5
+Aix-en-Provence,Certificats de spécialisation et FCIL,3
+Aix-en-Provence,DEUST,2
+Aix-en-Provence,Formations d'architecture,2
+Aix-en-Provence,Formations des écoles de commerce et de management,2
+Aix-en-Provence,Formations préparatoires à l'enseignement supérieur,2
+Aix-en-Provence,Sciences Po - Instituts d'études politiques,2
+Aix-en-Provence,du paysage et du patrimoine,2
+Aix-en-Provence,Formations diplômantes du travail social,1
+Aix-en-Provence,LPE - Licence Professorat des Ecoles,1
+Angers,BTS - BTSA - BTSM,95
+Angers,Licence,74
+Angers,Etudes de santé,32
+Angers,Formations des écoles d'ingénieurs,16
+Angers,Certificats de spécialisation et FCIL,12
+Angers,Licence sélective,12
+Angers,BUT,8
+Angers,CPGE,8
+Angers,Formations diplômantes du travail social,7
+Angers,C.M.I - Cursus Master en Ingénierie,5
+Angers,Formations d'art,5
+Angers,de design et du spectacle vivant,5
+Angers,Diplômes d'université ou d'établissement,4
+Angers,Formations préparatoires à l'enseignement supérieur,4
+Angers,DCG,2
+Angers,DEUST,2
+Angers,Formations des écoles de commerce et de management,2
+Angers,Formations professionnelles,2
+Angers,LPE - Licence Professorat des Ecoles,2
+Angers,Formations d'architecture,1
+Angers,Licence professionnelle,1
+Angers,du paysage et du patrimoine,1
+Bordeaux,BTS - BTSA - BTSM,166
+Bordeaux,Formations professionnelles,24
+Bordeaux,CPGE,23
+Bordeaux,Etudes de santé,21
+Bordeaux,Formations des écoles d'ingénieurs,17
+Bordeaux,Licence,15
+Bordeaux,BUT,11
+Bordeaux,Formations d'art,9
+Bordeaux,de design et du spectacle vivant,9
+Bordeaux,Certificats de spécialisation et FCIL,6
+Bordeaux,Formations des écoles de commerce et de management,6
+Bordeaux,DCG,3
+Bordeaux,Licence sélective,3
+Bordeaux,Formations aux métiers de l'hôtellerie restauration,2
+Bordeaux,Formations diplômantes du travail social,2
+Bordeaux,Formations préparatoires à l'enseignement supérieur,1
+Bordeaux,I.A.E - Instituts d'administration des entreprises,1
+Bordeaux,LPE - Licence Professorat des Ecoles,1
+Caen,BTS - BTSA - BTSM,116
+Caen,Licence,60
+Caen,Etudes de santé,13
+Caen,Formations des écoles d'ingénieurs,12
+Caen,CPGE,9
+Caen,BUT,7
+Caen,Formations aux métiers du sport,4
+Caen,Formations d'art,4
+Caen,Licence sélective,4
+Caen,de design et du spectacle vivant,4
+Caen,DCG,3
+Caen,Certificats de spécialisation et FCIL,2
+Caen,Formations des écoles de commerce et de management,2
+Caen,Formations diplômantes du travail social,2
+Caen,DEUST,1
+Caen,Diplômes d'université ou d'établissement,1
+Caen,Formations professionnelles,1
+Caen,LPE - Licence Professorat des Ecoles,1
+Caen,Sciences Po - Instituts d'études politiques,1
+Clermont-Ferrand,BTS - BTSA - BTSM,93
+Clermont-Ferrand,Licence,47
+Clermont-Ferrand,CPGE,17
+Clermont-Ferrand,Licence sélective,17
+Clermont-Ferrand,Certificats de spécialisation et FCIL,13
+Clermont-Ferrand,Etudes de santé,8
+Clermont-Ferrand,Formations diplômantes du travail social,8
+Clermont-Ferrand,Formations professionnelles,4
+Clermont-Ferrand,Formations d'art,3
+Clermont-Ferrand,de design et du spectacle vivant,3
+Clermont-Ferrand,DCG,2
+Clermont-Ferrand,Formations d'architecture,2
+Clermont-Ferrand,Formations des écoles de commerce et de management,2
+Clermont-Ferrand,du paysage et du patrimoine,2
+Clermont-Ferrand,DEUST,1
+Dijon,BTS - BTSA - BTSM,123
+Dijon,Licence,57
+Dijon,Etudes de santé,25
+Dijon,CPGE,16
+Dijon,Formations diplômantes du travail social,11
+Dijon,BUT,9
+Dijon,Licence sélective,8
+Dijon,Formations des écoles d'ingénieurs,7
+Dijon,Certificats de spécialisation et FCIL,6
+Dijon,Formations aux métiers du sport,6
+Dijon,Formations professionnelles,3
+Dijon,DCG,2
+Dijon,DEUST,2
+Dijon,Formations d'art,2
+Dijon,Sciences Po - Instituts d'études politiques,2
+Dijon,de design et du spectacle vivant,2
+Dijon,Diplômes d'université ou d'établissement,1
+Dijon,Formations aux métiers de l'hôtellerie restauration,1
+Dijon,Formations d'architecture,1
+Dijon,Formations des écoles de commerce et de management,1
+Dijon,I.A.E - Instituts d'administration des entreprises,1
+Dijon,LPE - Licence Professorat des Ecoles,1
+Dijon,du paysage et du patrimoine,1
+Grenoble,BTS - BTSA - BTSM,88
+Grenoble,BUT,14
+Grenoble,CPGE,12
+Grenoble,Certificats de spécialisation et FCIL,8
+Grenoble,Etudes de santé,5
+Grenoble,Formations aux métiers de l'hôtellerie restauration,4
+Grenoble,Formations diplômantes du travail social,4
+Grenoble,DCG,3
+Grenoble,Formations aux métiers du sport,3
+Grenoble,Formations d'art,3
+Grenoble,Formations des écoles de commerce et de management,3
+Grenoble,Formations préparatoires à l'enseignement supérieur,3
+Grenoble,de design et du spectacle vivant,3
+Grenoble,Formations professionnelles,2
+Grenoble,DEUST,1
+Grenoble,Formations d'architecture,1
+Grenoble,Licence,1
+Grenoble,du paysage et du patrimoine,1
+Lille,BTS - BTSA - BTSM,157
+Lille,Licence,60
+Lille,Formations des écoles d'ingénieurs,29
+Lille,Licence sélective,25
+Lille,CPGE,24
+Lille,Etudes de santé,14
+Lille,Formations professionnelles,13
+Lille,Formations des écoles de commerce et de management,9
+Lille,Diplômes d'université ou d'établissement,7
+Lille,DCG,5
+Lille,Formations diplômantes du travail social,5
+Lille,Sciences Po - Instituts d'études politiques,4
+Lille,Certificats de spécialisation et FCIL,3
+Lille,Formations d'art,3
+Lille,de design et du spectacle vivant,3
+Lille,Formations aux métiers du sport,2
+Lille,Formations préparatoires à l'enseignement supérieur,2
+Lille,I.A.E - Instituts d'administration des entreprises,2
+Lille,DEUST,1
+Lille,Formations aux métiers de l'hôtellerie restauration,1
+Lille,Formations d'architecture,1
+Lille,LPE - Licence Professorat des Ecoles,1
+Lille,du paysage et du patrimoine,1
+Lyon,BTS - BTSA - BTSM,303
+Lyon,Licence,129
+Lyon,CPGE,55
+Lyon,Licence sélective,51
+Lyon,Etudes de santé,36
+Lyon,Formations professionnelles,22
+Lyon,Formations des écoles d'ingénieurs,21
+Lyon,Formations des écoles de commerce et de management,21
+Lyon,Formations d'art,20
+Lyon,de design et du spectacle vivant,20
+Lyon,Formations diplômantes du travail social,19
+Lyon,DCG,10
+Lyon,Certificats de spécialisation et FCIL,9
+Lyon,I.A.E - Instituts d'administration des entreprises,7
+Lyon,BUT,5
+Lyon,Formations aux métiers du sport,5
+Lyon,Formations d'architecture,5
+Lyon,du paysage et du patrimoine,5
+Lyon,Diplômes d'université ou d'établissement,2
+Lyon,Formations préparatoires à l'enseignement supérieur,2
+Lyon,LPE - Licence Professorat des Ecoles,2
+Lyon,DEUST,1
+Lyon,Licence professionnelle,1
+Lyon,Sciences Po - Instituts d'études politiques,1
+Montpellier,BTS - BTSA - BTSM,171
+Montpellier,Licence,90
+Montpellier,Etudes de santé,29
+Montpellier,Formations des écoles d'ingénieurs,19
+Montpellier,Formations professionnelles,16
+Montpellier,CPGE,15
+Montpellier,Formations diplômantes du travail social,12
+Montpellier,Licence sélective,12
+Montpellier,Formations d'art,11
+Montpellier,de design et du spectacle vivant,11
+Montpellier,BUT,10
+Montpellier,Formations aux métiers du sport,10
+Montpellier,Certificats de spécialisation et FCIL,9
+Montpellier,DCG,4
+Montpellier,DEUST,4
+Montpellier,Diplômes d'université ou d'établissement,4
+Montpellier,LPE - Licence Professorat des Ecoles,3
+Montpellier,Formations aux métiers de l'hôtellerie restauration,2
+Montpellier,Formations d'architecture,2
+Montpellier,du paysage et du patrimoine,2
+Montpellier,C.M.I - Cursus Master en Ingénierie,1
+Montpellier,Formations des écoles de commerce et de management,1
+Montpellier,Formations préparatoires à l'enseignement supérieur,1
+Nancy,BTS - BTSA - BTSM,93
+Nancy,Licence,36
+Nancy,CPGE,13
+Nancy,BUT,9
+Nancy,Formations d'art,9
+Nancy,de design et du spectacle vivant,9
+Nancy,Etudes de santé,7
+Nancy,Formations diplômantes du travail social,7
+Nancy,Licence sélective,4
+Nancy,Certificats de spécialisation et FCIL,3
+Nancy,Formations professionnelles,3
+Nancy,Sciences Po - Instituts d'études politiques,3
+Nancy,DCG,2
+Nancy,Formations des écoles d'ingénieurs,2
+Nancy,Formations préparatoires à l'enseignement supérieur,2
+Nancy,Diplômes d'université ou d'établissement,1
+Nancy,Formations aux métiers du sport,1
+Nancy,Formations d'architecture,1
+Nancy,Formations des écoles de commerce et de management,1
+Nancy,du paysage et du patrimoine,1
+Nantes,BTS - BTSA - BTSM,174
+Nantes,Licence,64
+Nantes,Etudes de santé,31
+Nantes,CPGE,19
+Nantes,Licence sélective,12
+Nantes,Formations d'art,10
+Nantes,Formations des écoles d'ingénieurs,10
+Nantes,de design et du spectacle vivant,10
+Nantes,Formations diplômantes du travail social,8
+Nantes,Formations des écoles de commerce et de management,7
+Nantes,Formations professionnelles,5
+Nantes,Certificats de spécialisation et FCIL,4
+Nantes,C.M.I - Cursus Master en Ingénierie,3
+Nantes,Formations d'architecture,3
+Nantes,I.A.E - Instituts d'administration des entreprises,3
+Nantes,du paysage et du patrimoine,3
+Nantes,BUT,2
+Nantes,DCG,2
+Nantes,Formations aux métiers du sport,2
+Nantes,DEUST,1
+Nantes,Diplômes d'université ou d'établissement,1
+Nantes,Formations des écoles vétérinaires,1
+Nantes,LPE - Licence Professorat des Ecoles,1
+Nice,BTS - BTSA - BTSM,164
+Nice,Licence,59
+Nice,Etudes de santé,22
+Nice,Licence sélective,14
+Nice,Formations des écoles de commerce et de management,10
+Nice,CPGE,9
+Nice,Formations diplômantes du travail social,8
+Nice,Formations d'art,7
+Nice,Formations professionnelles,7
+Nice,de design et du spectacle vivant,7
+Nice,BUT,6
+Nice,Certificats de spécialisation et FCIL,5
+Nice,Formations des écoles d'ingénieurs,5
+Nice,DCG,4
+Nice,Formations aux métiers de l'hôtellerie restauration,2
+Nice,Formations aux métiers du sport,2
+Nice,DEUST,1
+Nice,Diplômes d'université ou d'établissement,1
+Nice,Formations préparatoires à l'enseignement supérieur,1
+Nice,LPE - Licence Professorat des Ecoles,1
+Paris,BTS - BTSA - BTSM,606
+Paris,Licence,467
+Paris,Licence sélective,164
+Paris,CPGE,121
+Paris,Formations d'art,111
+Paris,de design et du spectacle vivant,111
+Paris,Etudes de santé,105
+Paris,Formations des écoles de commerce et de management,51
+Paris,Certificats de spécialisation et FCIL,44
+Paris,Formations professionnelles,39
+Paris,Formations des écoles d'ingénieurs,24
+Paris,Formations diplômantes du travail social,23
+Paris,DCG,21
+Paris,BUT,17
+Paris,Diplômes d'université ou d'établissement,17
+Paris,Formations d'architecture,16
+Paris,du paysage et du patrimoine,16
+Paris,Formations aux métiers de l'hôtellerie restauration,12
+Paris,Formations aux métiers du sport,9
+Paris,Formations préparatoires à l'enseignement supérieur,8
+Paris,C.M.I - Cursus Master en Ingénierie,4
+Paris,LPE - Licence Professorat des Ecoles,4
+Paris,DEUST,2
+Paris,Licence professionnelle,2
+Paris,I.A.E - Instituts d'administration des entreprises,1
+Paris,Sciences Po - Instituts d'études politiques,1
+Poitiers,BTS - BTSA - BTSM,57
+Poitiers,Licence,50
+Poitiers,Etudes de santé,17
+Poitiers,CPGE,10
+Poitiers,Formations diplômantes du travail social,8
+Poitiers,Licence sélective,7
+Poitiers,BUT,5
+Poitiers,Formations aux métiers du sport,5
+Poitiers,Formations d'art,5
+Poitiers,de design et du spectacle vivant,5
+Poitiers,Certificats de spécialisation et FCIL,4
+Poitiers,C.M.I - Cursus Master en Ingénierie,3
+Poitiers,DEUST,3
+Poitiers,Formations professionnelles,3
+Poitiers,DCG,1
+Poitiers,Formations d'architecture,1
+Poitiers,LPE - Licence Professorat des Ecoles,1
+Poitiers,Sciences Po - Instituts d'études politiques,1
+Poitiers,du paysage et du patrimoine,1
+Reims,BTS - BTSA - BTSM,118
+Reims,Licence,43
+Reims,CPGE,12
+Reims,Etudes de santé,12
+Reims,BUT,10
+Reims,Formations diplômantes du travail social,10
+Reims,Formations professionnelles,10
+Reims,Formations d'art,9
+Reims,de design et du spectacle vivant,9
+Reims,Licence sélective,8
+Reims,Sciences Po - Instituts d'études politiques,7
+Reims,Formations des écoles d'ingénieurs,6
+Reims,Certificats de spécialisation et FCIL,5
+Reims,Formations aux métiers du sport,3
+Reims,Formations des écoles de commerce et de management,3
+Reims,C.M.I - Cursus Master en Ingénierie,2
+Reims,DCG,1
+Reims,DEUST,1
+Reims,Formations préparatoires à l'enseignement supérieur,1
+Reims,LPE - Licence Professorat des Ecoles,1
+Rennes,BTS - BTSA - BTSM,111
+Rennes,Licence,78
+Rennes,Etudes de santé,25
+Rennes,CPGE,16
+Rennes,Formations d'art,12
+Rennes,Formations des écoles d'ingénieurs,12
+Rennes,de design et du spectacle vivant,12
+Rennes,Formations diplômantes du travail social,11
+Rennes,Licence sélective,9
+Rennes,BUT,6
+Rennes,Formations aux métiers du sport,5
+Rennes,Diplômes d'université ou d'établissement,4
+Rennes,Formations aux métiers de l'hôtellerie restauration,4
+Rennes,Formations professionnelles,4
+Rennes,Certificats de spécialisation et FCIL,3
+Rennes,DCG,3
+Rennes,DEUST,3
+Rennes,Formations d'architecture,2
+Rennes,Formations des écoles de commerce et de management,2
+Rennes,LPE - Licence Professorat des Ecoles,2
+Rennes,Sciences Po - Instituts d'études politiques,2
+Rennes,du paysage et du patrimoine,2
+Strasbourg,BTS - BTSA - BTSM,118
+Strasbourg,Licence,91
+Strasbourg,Etudes de santé,22
+Strasbourg,Licence sélective,22
+Strasbourg,CPGE,20
+Strasbourg,Formations d'art,11
+Strasbourg,de design et du spectacle vivant,11
+Strasbourg,Formations diplômantes du travail social,9
+Strasbourg,Formations professionnelles,8
+Strasbourg,Formations aux métiers du sport,7
+Strasbourg,DEUST,6
+Strasbourg,Formations des écoles d'ingénieurs,6
+Strasbourg,LPE - Licence Professorat des Ecoles,5
+Strasbourg,C.M.I - Cursus Master en Ingénierie,4
+Strasbourg,DCG,4
+Strasbourg,Formations d'architecture,3
+Strasbourg,Formations des écoles de commerce et de management,3
+Strasbourg,du paysage et du patrimoine,3
+Strasbourg,Certificats de spécialisation et FCIL,2
+Strasbourg,Diplômes d'université ou d'établissement,2
+Strasbourg,I.A.E - Instituts d'administration des entreprises,1
+Strasbourg,Sciences Po - Instituts d'études politiques,1
+Toulouse,BTS - BTSA - BTSM,189
+Toulouse,Licence,144
+Toulouse,Etudes de santé,39
+Toulouse,Licence sélective,35
+Toulouse,CPGE,25
+Toulouse,Formations d'art,25
+Toulouse,de design et du spectacle vivant,25
+Toulouse,Certificats de spécialisation et FCIL,18
+Toulouse,Formations diplômantes du travail social,17
+Toulouse,Formations des écoles d'ingénieurs,13
+Toulouse,Formations professionnelles,13
+Toulouse,Formations aux métiers du sport,12
+Toulouse,BUT,11
+Toulouse,Formations préparatoires à l'enseignement supérieur,6
+Toulouse,DCG,4
+Toulouse,DEUST,3
+Toulouse,Diplômes d'université ou d'établissement,3
+Toulouse,LPE - Licence Professorat des Ecoles,3
+Toulouse,Sciences Po - Instituts d'études politiques,3
+Toulouse,C.M.I - Cursus Master en Ingénierie,2
+Toulouse,Formations aux métiers de l'hôtellerie restauration,2
+Toulouse,Formations d'architecture,2
+Toulouse,du paysage et du patrimoine,2
+Toulouse,Formations des écoles de commerce et de management,1
+Toulouse,Formations des écoles vétérinaires,1
+Toulouse,I.A.E - Instituts d'administration des entreprises,1
+Tours,BTS - BTSA - BTSM,93
+Tours,Licence,48
+Tours,Etudes de santé,11
+Tours,BUT,9
+Tours,Licence sélective,9
+Tours,Formations d'art,8
+Tours,de design et du spectacle vivant,8
+Tours,CPGE,7
+Tours,Certificats de spécialisation et FCIL,6
+Tours,Formations des écoles de commerce et de management,3
+Tours,Formations diplômantes du travail social,3
+Tours,DCG,2
+Tours,Formations professionnelles,2
+Tours,I.A.E - Instituts d'administration des entreprises,2
+Tours,C.M.I - Cursus Master en Ingénierie,1
+Tours,DEUST,1
+Tours,Diplômes d'université ou d'établissement,1
+Tours,Formations aux métiers de l'hôtellerie restauration,1
+Tours,Formations des écoles d'ingénieurs,1
+Tours,LPE - Licence Professorat des Ecoles,1

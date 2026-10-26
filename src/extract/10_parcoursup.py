@@ -35,8 +35,8 @@ import pandas as pd
 
 RACINE = Path(__file__).resolve().parents[2]
 RAW = RACINE / "data" / "raw"
-OUT_VILLES = RAW / "parcoursup_villes.csv"
-OUT_FAMILLES = RAW / "parcoursup_familles.csv"
+OUT_VILLES = RACINE / "data" / "processed" / "parcoursup_villes.csv"
+OUT_FAMILLES = RACINE / "data" / "processed" / "parcoursup_familles.csv"
 
 # Le fichier téléchargé manuellement depuis data.enseignementsup-recherche.gouv.fr
 # (jeu fr-esr-cartographie_formations_parcoursup, export CSV « ; »).
