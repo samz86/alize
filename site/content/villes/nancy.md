@@ -56,4 +56,4 @@ L'analyse porte sur la commune de Nancy seule, pas sur le bassin Metz-Nancy. Le 
 
 Si le taux d'effort logement passait de 31,5 % à 40 %, Nancy conserverait-elle sa première place dans le classement ?
 
-(Réponse dans le simulateur : transformer/analyse_de_[sensibilite.py](http://sensibilite.py) — scénario « taux d'effort +8,5 points ».)
+(Réponse dans le simulateur du site : menu Simulateur, scénario « taux d'effort +8,5 points ».)
