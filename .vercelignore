@@ -1,0 +1,7 @@
+# Le site n'a besoin que du dossier site/ : on exclut le reste du dépôt
+# de l'upload CLI (les deploiements Git ne sont pas concernes, ils ne
+# lisent deja que site/ via le Root Directory).
+.venv
+data
+node_modules
+.git
